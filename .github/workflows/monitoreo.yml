@@ -1,9 +1,8 @@
-name: Generar actualizacion monitoreo
+name: Monitoreo Licitaciones - Detectar novedades
 
 on:
   workflow_dispatch:
   schedule:
-    # 11:15 UTC = 08:15 Argentina (UTC-3)
     - cron: '15 11 * * *'
 
 permissions:
@@ -22,21 +21,19 @@ jobs:
           python-version: '3.12'
 
       - name: Instalar dependencias
-        run: pip install requests openai
+        run: pip install requests
 
-      - name: Generar JSON del monitoreo
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python generar_actualizacion.py
+      - name: Detectar IDs nuevos y validar cobertura
+        run: python generar_pendientes.py
 
       - name: Publicar cambios
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add actualizacion_monitoreo.json historial_ids.json metadata.json
+          git add pendientes_clasificacion.json metadata.json
           if git diff --cached --quiet; then
             echo "Sin cambios para publicar"
           else
-            git commit -m "Actualizar monitoreo diario"
+            git commit -m "Actualizar pendientes de clasificacion"
             git push
           fi
