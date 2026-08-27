@@ -1,4 +1,9 @@
 {
-  "coverage_complete": false,
-  "validation_status": "PENDING"
+  "generated_at": "2026-08-27T21:15:06.206805+00:00",
+  "coverage_complete": true,
+  "validation_status": "OK",
+  "bid_records": 105,
+  "sicop_records": 1063,
+  "worldbank_records": 184,
+  "pending_new_ids": 1352
 }
