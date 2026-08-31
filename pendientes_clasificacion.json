@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-30T11:20:47.375768+00:00",
+  "generated_at": "2026-08-31T11:21:10.997617+00:00",
   "coverage": {
-    "BID": "101/101",
-    "SICOP": "989/989",
+    "BID": "100/100",
+    "SICOP": "990/990",
     "Banco Mundial": "194/194"
   },
   "pendientes": [
@@ -837,19 +837,6 @@
       "Fuente/Enlace": "",
       "Texto": "",
       "source_key": "BID|3717"
-    },
-    {
-      "Fuente": "BID",
-      "Identificador": "3718",
-      "Oportunidad": "",
-      "Institución/Entidad": "",
-      "País": 2024,
-      "Monto": "USD 300000.00000",
-      "Fecha de publicación": "2026-08-14T14:20:39.664Z",
-      "Cierre": "2026-08-30T02:09:00.000Z",
-      "Fuente/Enlace": "",
-      "Texto": "",
-      "source_key": "BID|3718"
     },
     {
       "Fuente": "BID",
@@ -2202,6 +2189,19 @@
       "Fuente/Enlace": "",
       "Texto": "COMPRA DE TABLETS",
       "source_key": "SICOP|2026LD-000101-0003600001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000179-0018962008",
+      "Oportunidad": "L-302-2026 ADQUISICIÓN DE LICENCIAMIENTO DE LA PLATAFORMA GENIALLY",
+      "Institución/Entidad": "UNIVERSIDAD TÉCNICA NACIONAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "28/08/2026 09:11",
+      "Cierre": "07/09/2026 10:05",
+      "Fuente/Enlace": "",
+      "Texto": "L-302-2026 ADQUISICIÓN DE LICENCIAMIENTO DE LA PLATAFORMA GENIALLY",
+      "source_key": "SICOP|2026LD-000179-0018962008"
     },
     {
       "Fuente": "SICOP",
