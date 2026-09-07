@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-06T11:24:29.822895+00:00",
+  "generated_at": "2026-09-07T11:28:20.744760+00:00",
   "coverage": {
     "BID": "101/101",
-    "SICOP": "973/973",
+    "SICOP": "975/975",
     "Banco Mundial": "178/178"
   },
   "pendientes": [
@@ -1318,6 +1318,32 @@
       "Fuente/Enlace": "",
       "Texto": "",
       "source_key": "BID|3788"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000021-0000900010",
+      "Oportunidad": "MOBILIARIO, SEDE DE OCCIDENTE",
+      "Institución/Entidad": "UNIVERSIDAD DE COSTA RICA",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "04/09/2026 20:48",
+      "Cierre": "11/09/2026 08:01",
+      "Fuente/Enlace": "",
+      "Texto": "MOBILIARIO, SEDE DE OCCIDENTE",
+      "source_key": "SICOP|2026LD-000021-0000900010"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000014-0048700001",
+      "Oportunidad": "Nombre del Procedimiento de Contratación  Contratación de entrenador/a para la disciplina de Fútbol Sala en la rama masculina y femenina en el CCDR Tibás.",
+      "Institución/Entidad": "COMITÉ CANTONAL DE DEPORTES Y RECREACIÓN DE TIBÁS",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "04/09/2026 19:07",
+      "Cierre": "10/09/2026 08:00",
+      "Fuente/Enlace": "",
+      "Texto": "Nombre del Procedimiento de Contratación  Contratación de entrenador/a para la disciplina de Fútbol Sala en la rama masculina y femenina en el CCDR Tibás.",
+      "source_key": "SICOP|2026LD-000014-0048700001"
     },
     {
       "Fuente": "SICOP",
