@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-10T11:26:40.710549+00:00",
+  "generated_at": "2026-09-11T11:26:21.295597+00:00",
   "coverage_complete": true,
   "validation_status": "OK",
   "bid_records": 97,
-  "sicop_records": 1089,
-  "worldbank_records": 178,
-  "pending_new_ids": 1364
+  "sicop_records": 1105,
+  "worldbank_records": 172,
+  "pending_new_ids": 1374
 }
