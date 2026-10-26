@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-25T14:56:50.378770+00:00",
+  "generated_at": "2026-10-26T17:23:04.699954+00:00",
   "coverage": {
-    "BID": "92/92",
-    "SICOP": "1034/1034",
-    "Banco Mundial": "179/179"
+    "BID": "95/95",
+    "SICOP": "1065/1065",
+    "Banco Mundial": "170/170"
   },
   "pendientes": [
     {
@@ -1203,6 +1203,292 @@
       "source_key": "BID|3972"
     },
     {
+      "Fuente": "BID",
+      "Identificador": "3974",
+      "Oportunidad": "",
+      "Institución/Entidad": "",
+      "País": 2196,
+      "Monto": "No informado",
+      "Fecha de publicación": "2026-10-26T10:47:55.888Z",
+      "Cierre": "2026-11-27T04:59:00.000Z",
+      "Fuente/Enlace": "",
+      "Texto": "",
+      "source_key": "BID|3974"
+    },
+    {
+      "Fuente": "BID",
+      "Identificador": "3975",
+      "Oportunidad": "",
+      "Institución/Entidad": "",
+      "País": 1968,
+      "Monto": "No informado",
+      "Fecha de publicación": "2026-10-26T10:54:43.751Z",
+      "Cierre": "2026-11-27T04:59:00.000Z",
+      "Fuente/Enlace": "",
+      "Texto": "",
+      "source_key": "BID|3975"
+    },
+    {
+      "Fuente": "BID",
+      "Identificador": "3976",
+      "Oportunidad": "",
+      "Institución/Entidad": "",
+      "País": 1980,
+      "Monto": "No informado",
+      "Fecha de publicación": "2026-10-26T11:00:46.319Z",
+      "Cierre": "2026-11-21T04:59:00.000Z",
+      "Fuente/Enlace": "",
+      "Texto": "",
+      "source_key": "BID|3976"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026PX-000534-0015499999",
+      "Oportunidad": "Compra de repuestos para activos JCB de varias dependencias en condición C",
+      "Institución/Entidad": "MUNICIPALIDAD DEL CANTÓN CENTRAL DE SAN JOSÉ",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "26/10/2026 09:23",
+      "Cierre": "27/10/2026 09:31",
+      "Fuente/Enlace": "",
+      "Texto": "Compra de repuestos para activos JCB de varias dependencias en condición C",
+      "source_key": "SICOP|2026PX-000534-0015499999"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LE-000012-0004800001",
+      "Oportunidad": "Adquisición de Cloro, Gas Cloro, Sulfato, DPD, Cloro Gel y Kit de Aluminio Residual según demanda",
+      "Institución/Entidad": "MUNICIPALIDAD DE LA UNIÓN",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "26/10/2026 09:18",
+      "Cierre": "09/11/2026 09:30",
+      "Fuente/Enlace": "",
+      "Texto": "Adquisición de Cloro, Gas Cloro, Sulfato, DPD, Cloro Gel y Kit de Aluminio Residual según demanda",
+      "source_key": "SICOP|2026LE-000012-0004800001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026PX-000011-0004800001",
+      "Oportunidad": "Contratación de servicios de mantenimiento preventivo y correctivo para retroexcavadores John Deere",
+      "Institución/Entidad": "MUNICIPALIDAD DE LA UNIÓN",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "26/10/2026 09:15",
+      "Cierre": "02/11/2026 09:30",
+      "Fuente/Enlace": "",
+      "Texto": "Contratación de servicios de mantenimiento preventivo y correctivo para retroexcavadores John Deere",
+      "source_key": "SICOP|2026PX-000011-0004800001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LE-000010-0006600001",
+      "Oportunidad": "Suministro, instalación y servicio continuo de mantenimiento preventivo de equipos de media tensión para el lado de aire del Aeropuerto Internacional Daniel Oduber Quirós",
+      "Institución/Entidad": "CONSEJO TÉCNICO DE AVIACIÓN CIVIL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "26/10/2026 09:01",
+      "Cierre": "09/11/2026 08:01",
+      "Fuente/Enlace": "",
+      "Texto": "Suministro, instalación y servicio continuo de mantenimiento preventivo de equipos de media tensión para el lado de aire del Aeropuerto Internacional Daniel Oduber Quirós",
+      "source_key": "SICOP|2026LE-000010-0006600001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000111-0006600001",
+      "Oportunidad": "Suscripción de plataforma de expediente jurídico en la nube para la Unidad de Asesoría Jurídica",
+      "Institución/Entidad": "CONSEJO TÉCNICO DE AVIACIÓN CIVIL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "26/10/2026 08:54",
+      "Cierre": "02/11/2026 08:01",
+      "Fuente/Enlace": "",
+      "Texto": "Suscripción de plataforma de expediente jurídico en la nube para la Unidad de Asesoría Jurídica",
+      "source_key": "SICOP|2026LD-000111-0006600001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000089-0011900001",
+      "Oportunidad": "COMPRA DE AIRES ACONDICIONADOS PARA PLATAFORMA Y CONTRALORIA SERVICIOS",
+      "Institución/Entidad": "MUNICIPALIDAD DE LIBERIA",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "26/10/2026 08:26",
+      "Cierre": "29/10/2026 09:01",
+      "Fuente/Enlace": "",
+      "Texto": "COMPRA DE AIRES ACONDICIONADOS PARA PLATAFORMA Y CONTRALORIA SERVICIOS",
+      "source_key": "SICOP|2026LD-000089-0011900001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026PX-000024-0013200001",
+      "Oportunidad": "Curso Articulate 360 Completo",
+      "Institución/Entidad": "INSTITUTO DE DESARROLLO PROFESIONAL ULADISLAO GÁMEZ SOLANO",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "26/10/2026 08:18",
+      "Cierre": "28/10/2026 09:00",
+      "Fuente/Enlace": "",
+      "Texto": "Curso Articulate 360 Completo",
+      "source_key": "SICOP|2026PX-000024-0013200001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000305-0006300001",
+      "Oportunidad": "Suministro e Instalación de Equipos NAS.",
+      "Institución/Entidad": "INSTITUTO TECNOLÓGICO DE COSTA RICA",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "26/10/2026 07:42",
+      "Cierre": "03/11/2026 10:01",
+      "Fuente/Enlace": "",
+      "Texto": "Suministro e Instalación de Equipos NAS.",
+      "source_key": "SICOP|2026LD-000305-0006300001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000064-0002800001",
+      "Oportunidad": "Celebración del día del Hombre",
+      "Institución/Entidad": "MUNICIPALIDAD DE TIBÁS",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "26/10/2026 07:06",
+      "Cierre": "30/10/2026 11:00",
+      "Fuente/Enlace": "",
+      "Texto": "Celebración del día del Hombre",
+      "source_key": "SICOP|2026LD-000064-0002800001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000124-0000900016",
+      "Oportunidad": "Abastecimiento de materiales de fontanería para el aprovisionamiento del Almacén II CONCURSO",
+      "Institución/Entidad": "UNIVERSIDAD DE COSTA RICA",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "26/10/2026 07:02",
+      "Cierre": "02/11/2026 07:30",
+      "Fuente/Enlace": "",
+      "Texto": "Abastecimiento de materiales de fontanería para el aprovisionamiento del Almacén II CONCURSO",
+      "source_key": "SICOP|2026LD-000124-0000900016"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000063-0002800001",
+      "Oportunidad": "Psicoterapia para usuarias y usuarios de la Oficina de la Mujer y de la Oficina de la Persona Adulta Mayor",
+      "Institución/Entidad": "MUNICIPALIDAD DE TIBÁS",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "26/10/2026 07:02",
+      "Cierre": "29/10/2026 09:00",
+      "Fuente/Enlace": "",
+      "Texto": "Psicoterapia para usuarias y usuarios de la Oficina de la Mujer y de la Oficina de la Persona Adulta Mayor",
+      "source_key": "SICOP|2026LD-000063-0002800001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000062-0002800001",
+      "Oportunidad": "Conmemoración del Día de la No violencia contra la Mujer",
+      "Institución/Entidad": "MUNICIPALIDAD DE TIBÁS",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "26/10/2026 07:00",
+      "Cierre": "30/10/2026 10:00",
+      "Fuente/Enlace": "",
+      "Texto": "Conmemoración del Día de la No violencia contra la Mujer",
+      "source_key": "SICOP|2026LD-000062-0002800001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000061-0002800001",
+      "Oportunidad": "Asesorias jurídicas para la Oficina de la Mujer",
+      "Institución/Entidad": "MUNICIPALIDAD DE TIBÁS",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "26/10/2026 06:58",
+      "Cierre": "30/10/2026 09:00",
+      "Fuente/Enlace": "",
+      "Texto": "Asesorias jurídicas para la Oficina de la Mujer",
+      "source_key": "SICOP|2026LD-000061-0002800001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000031-0008200001",
+      "Oportunidad": "COMPRA DE MONITORES  y PANTALLA INTERACTIVA MIDEPLAN -DGSC",
+      "Institución/Entidad": "MINISTERIO DE PLANIFICACIÓN NACIONAL Y POLÍTICA ECONÓMICA",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "25/10/2026 21:30",
+      "Cierre": "29/10/2026 08:00",
+      "Fuente/Enlace": "",
+      "Texto": "COMPRA DE MONITORES  y PANTALLA INTERACTIVA MIDEPLAN -DGSC",
+      "source_key": "SICOP|2026LD-000031-0008200001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000031-0000900010",
+      "Oportunidad": "ADQUISICION DE HERRAMIENTAS Y EQUIPOS PARA MANTENIMIENTO DE INSTALACIONES, SEDE DE OCCIDENTE",
+      "Institución/Entidad": "UNIVERSIDAD DE COSTA RICA",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "25/10/2026 17:55",
+      "Cierre": "29/10/2026 00:01",
+      "Fuente/Enlace": "",
+      "Texto": "ADQUISICION DE HERRAMIENTAS Y EQUIPOS PARA MANTENIMIENTO DE INSTALACIONES, SEDE DE OCCIDENTE",
+      "source_key": "SICOP|2026LD-000031-0000900010"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000001-0049600001",
+      "Oportunidad": "CANTIDAD DEFINIDA",
+      "Institución/Entidad": "ASOCIACIÓN PARA LA ATENCIÓN INTEGRAL DEL ADULTO MAYOR DEL DISTRITO DE NOSARA NICOYA",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "25/10/2026 17:42",
+      "Cierre": "29/10/2026 14:01",
+      "Fuente/Enlace": "",
+      "Texto": "CANTIDAD DEFINIDA",
+      "source_key": "SICOP|2026LD-000001-0049600001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000044-0024100001",
+      "Oportunidad": "PERFILADO Y ASFALTADO CON MEZCLA ASFÁLTICA EN CALIENTE DEL PARQUERO DEL PALACIO MUNICIPAL DE LA MUNICIPALIDAD DE GOICOECHEA.",
+      "Institución/Entidad": "MUNICIPALIDAD DE GOICOECHEA",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "25/10/2026 09:58",
+      "Cierre": "28/10/2026 07:31",
+      "Fuente/Enlace": "",
+      "Texto": "PERFILADO Y ASFALTADO CON MEZCLA ASFÁLTICA EN CALIENTE DEL PARQUERO DEL PALACIO MUNICIPAL DE LA MUNICIPALIDAD DE GOICOECHEA.",
+      "source_key": "SICOP|2026LD-000044-0024100001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000023-0016400001",
+      "Oportunidad": "Adquisición de un Web Application Firewall (WAF) Administrado",
+      "Institución/Entidad": "BANCO HIPOTECARIO DE LA VIVIENDA",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "25/10/2026 00:46",
+      "Cierre": "30/10/2026 10:01",
+      "Fuente/Enlace": "",
+      "Texto": "Adquisición de un Web Application Firewall (WAF) Administrado",
+      "source_key": "SICOP|2026LD-000023-0016400001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000030-0000900010",
+      "Oportunidad": "PUNTO ECOLOGICO DE TRES BASUREROS, SEDE DE OCCIDENTE",
+      "Institución/Entidad": "UNIVERSIDAD DE COSTA RICA",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "24/10/2026 18:28",
+      "Cierre": "29/10/2026 00:01",
+      "Fuente/Enlace": "",
+      "Texto": "PUNTO ECOLOGICO DE TRES BASUREROS, SEDE DE OCCIDENTE",
+      "source_key": "SICOP|2026LD-000030-0000900010"
+    },
+    {
       "Fuente": "SICOP",
       "Identificador": "2026LD-000039-0022300001",
       "Oportunidad": "SERVICIO SUMINISTRO DE REPUESTOS Y ACCESORIOS, MANO DE OBRA EQUIPO DE TRANSPORTE PARA LA REPARACIÓN DEL CISTERNA SM6596",
@@ -1230,6 +1516,19 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026XE-000923-0000400001",
+      "Oportunidad": "SE-Contratación directa por excepción para la Adquisición de cables de control para la actualización de controles y SCAD A PT Garabito (DG-2394-2026).",
+      "Institución/Entidad": "INSTITUTO COSTARRICENSE DE ELECTRICIDAD",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 21:08",
+      "Cierre": "09/11/2026 07:30",
+      "Fuente/Enlace": "",
+      "Texto": "SE-Contratación directa por excepción para la Adquisición de cables de control para la actualización de controles y SCAD A PT Garabito (DG-2394-2026).",
+      "source_key": "SICOP|2026XE-000923-0000400001"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026XE-000183-0001000001",
       "Oportunidad": "Servicio de Gestión de Residuos del Grupo INS, bajo la modalidad de entrega según demanda",
       "Institución/Entidad": "INSTITUTO NACIONAL DE SEGUROS",
@@ -1243,6 +1542,32 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026LE-000015-0004611901",
+      "Oportunidad": "SERVICIOS DE COLOCACIÓN CARPETAS ASFÁLTICAS Y CONTROL DE CALIDAD EN CUADRANTES URBANOS DE CANNAN-RIVAS, GENERAL VIEJO Y LA HERMOSA, EL GENERAL - EL CARMEN, CAJÓN",
+      "Institución/Entidad": "MUNICIPALIDAD DE PÉREZ ZELEDÓN",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 17:30",
+      "Cierre": "02/11/2026 10:00",
+      "Fuente/Enlace": "",
+      "Texto": "SERVICIOS DE COLOCACIÓN CARPETAS ASFÁLTICAS Y CONTROL DE CALIDAD EN CUADRANTES URBANOS DE CANNAN-RIVAS, GENERAL VIEJO Y LA HERMOSA, EL GENERAL - EL CARMEN, CAJÓN",
+      "source_key": "SICOP|2026LE-000015-0004611901"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LE-000014-0004611901",
+      "Oportunidad": "CONTRATACION DE SERVICIOS DE VIGILANCIA Y SEGURIDAD EN LAS INSTALACIONES DEL CAMPO EXPOSICIONES DE LA MUNICIPALIDAD DEL CANTÓN DE PÉREZ ZELEDÓN",
+      "Institución/Entidad": "MUNICIPALIDAD DE PÉREZ ZELEDÓN",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 17:26",
+      "Cierre": "03/11/2026 10:00",
+      "Fuente/Enlace": "",
+      "Texto": "CONTRATACION DE SERVICIOS DE VIGILANCIA Y SEGURIDAD EN LAS INSTALACIONES DEL CAMPO EXPOSICIONES DE LA MUNICIPALIDAD DEL CANTÓN DE PÉREZ ZELEDÓN",
+      "source_key": "SICOP|2026LE-000014-0004611901"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026LD-000018-0018600001",
       "Oportunidad": "CONTRATACIÓN DE SERVICIOS DE CONSTRUCCIÓN PARA REHABILITAR TANQUES CIRCULARES",
       "Institución/Entidad": "INSTITUTO COSTARRICENSE DE PESCA Y ACUICULTURA",
@@ -1253,6 +1578,19 @@
       "Fuente/Enlace": "",
       "Texto": "CONTRATACIÓN DE SERVICIOS DE CONSTRUCCIÓN PARA REHABILITAR TANQUES CIRCULARES",
       "source_key": "SICOP|2026LD-000018-0018600001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LE-000043-0001102205",
+      "Oportunidad": "OMEPRAZOL 10 MG, CINACALCET TABLETAS RECUBIERTAS DE 30 MG, 60 MG Y 90 MGMETILFENIDATO 20 MG Y 10 MG DE ACCIÓN PROLONGADA MARCA MEDIKINET",
+      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 16:59",
+      "Cierre": "13/11/2026 09:00",
+      "Fuente/Enlace": "",
+      "Texto": "OMEPRAZOL 10 MG, CINACALCET TABLETAS RECUBIERTAS DE 30 MG, 60 MG Y 90 MGMETILFENIDATO 20 MG Y 10 MG DE ACCIÓN PROLONGADA MARCA MEDIKINET",
+      "source_key": "SICOP|2026LE-000043-0001102205"
     },
     {
       "Fuente": "SICOP",
@@ -1279,6 +1617,58 @@
       "Fuente/Enlace": "",
       "Texto": "Adquisición de equipo electrónico para competencias deportivas: sala de ajedrez, disciplinas de natación, taekwondo, baloncesto, futbol sala.",
       "source_key": "SICOP|2026LD-000037-0006200001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026XE-000922-0000400001",
+      "Oportunidad": "S.E. Contratación Directa Escasa Cuantía Adquisición de dinanómetro de grúa (DG-2281-2026)",
+      "Institución/Entidad": "INSTITUTO COSTARRICENSE DE ELECTRICIDAD",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 16:12",
+      "Cierre": "02/11/2026 07:30",
+      "Fuente/Enlace": "",
+      "Texto": "S.E. Contratación Directa Escasa Cuantía Adquisición de dinanómetro de grúa (DG-2281-2026)",
+      "source_key": "SICOP|2026XE-000922-0000400001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LE-000009-0011400001",
+      "Oportunidad": "Reparación de la superficie de la Pista de Atletismo del Estadio Nacional de Costa Rica",
+      "Institución/Entidad": "INSTITUTO COSTARRICENSE DEL DEPORTE Y LA RECREACIÓN",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 16:08",
+      "Cierre": "16/11/2026 08:10",
+      "Fuente/Enlace": "",
+      "Texto": "Reparación de la superficie de la Pista de Atletismo del Estadio Nacional de Costa Rica",
+      "source_key": "SICOP|2026LE-000009-0011400001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LE-000012-0008000001",
+      "Oportunidad": "SUMINISTRO, INSTALACIÓN Y PUESTA EN FUNCIONAMIENTO DE EQUIPAMIENTO PARA EXHIBICIÓN CINEMATOGRÁFICA DEL CINE VARIEDADES",
+      "Institución/Entidad": "MINISTERIO DE CULTURA JUVENTUD",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 15:59",
+      "Cierre": "30/10/2026 09:00",
+      "Fuente/Enlace": "",
+      "Texto": "SUMINISTRO, INSTALACIÓN Y PUESTA EN FUNCIONAMIENTO DE EQUIPAMIENTO PARA EXHIBICIÓN CINEMATOGRÁFICA DEL CINE VARIEDADES",
+      "source_key": "SICOP|2026LE-000012-0008000001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026PX-000006-0001102705",
+      "Oportunidad": "Reparación indeterminada gastroscopio Hospital San Vito “Juana Pirola”.",
+      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 15:56",
+      "Cierre": "30/10/2026 10:00",
+      "Fuente/Enlace": "",
+      "Texto": "Reparación indeterminada gastroscopio Hospital San Vito “Juana Pirola”.",
+      "source_key": "SICOP|2026PX-000006-0001102705"
     },
     {
       "Fuente": "SICOP",
@@ -1318,6 +1708,19 @@
       "Fuente/Enlace": "",
       "Texto": "“CONTRATACIÓN POR DEMANDA DE UNA EMPRESA QUE BRINDE SERVICIOS DE ESTRATEGIA Y ACOMPAÑAMIENTO EN CAMPAÑAS DE COMUNICACIÓN Y MERCADEO”",
       "source_key": "SICOP|2026LY-000035-0001000001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026XE-000921-0000400001",
+      "Oportunidad": "S.E Contratación Directa de Escasa Cuantía / SERVICIO DE FABRICACIÓN DE TANQUETA DE ACERO GE-395",
+      "Institución/Entidad": "INSTITUTO COSTARRICENSE DE ELECTRICIDAD",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 15:47",
+      "Cierre": "02/11/2026 07:30",
+      "Fuente/Enlace": "",
+      "Texto": "S.E Contratación Directa de Escasa Cuantía / SERVICIO DE FABRICACIÓN DE TANQUETA DE ACERO GE-395",
+      "source_key": "SICOP|2026XE-000921-0000400001"
     },
     {
       "Fuente": "SICOP",
@@ -1373,6 +1776,19 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026LD-000013-0009700001",
+      "Oportunidad": "Contratación de Servicios de Interpretación en Lengua de Señas Costarricense (LESCO)",
+      "Institución/Entidad": "CONSEJO NACIONAL DE LA POLÍTICA PÚBLICA DE LA PERSONA JOVEN",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 15:31",
+      "Cierre": "30/10/2026 09:01",
+      "Fuente/Enlace": "",
+      "Texto": "Contratación de Servicios de Interpretación en Lengua de Señas Costarricense (LESCO)",
+      "source_key": "SICOP|2026LD-000013-0009700001"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026LY-000014-0012800001",
       "Oportunidad": "Adquisición de herramientas y equipo de rescate – Según demanda",
       "Institución/Entidad": "BENEMÉRITO CUERPO DE BOMBEROS DE COSTA RICA",
@@ -1383,6 +1799,19 @@
       "Fuente/Enlace": "",
       "Texto": "Adquisición de herramientas y equipo de rescate – Según demanda",
       "source_key": "SICOP|2026LY-000014-0012800001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LE-000024-0001102105",
+      "Oportunidad": "ETIQUETAS RFID TIPO STICKER",
+      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 15:27",
+      "Cierre": "13/11/2026 10:00",
+      "Fuente/Enlace": "",
+      "Texto": "ETIQUETAS RFID TIPO STICKER",
+      "source_key": "SICOP|2026LE-000024-0001102105"
     },
     {
       "Fuente": "SICOP",
@@ -1425,6 +1854,32 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026LD-000022-0054511111",
+      "Oportunidad": "CONTRATACIÓN DE SERVICIOS PROFESIONALES DE ARBITRAJE BAJO LA MODALIDAD ENTREGA SEGÚN DEMANDA, PARA LA DISCIPLINA DE VOLEIBOL PARA LAS ELIMINATORIAS DE JN Y TORNEOS FEDERADOS",
+      "Institución/Entidad": "COMITÉ CANTONAL DE DEPORTES Y RECREACIÓN DE GRECIA",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 15:17",
+      "Cierre": "04/11/2026 10:00",
+      "Fuente/Enlace": "",
+      "Texto": "CONTRATACIÓN DE SERVICIOS PROFESIONALES DE ARBITRAJE BAJO LA MODALIDAD ENTREGA SEGÚN DEMANDA, PARA LA DISCIPLINA DE VOLEIBOL PARA LAS ELIMINATORIAS DE JN Y TORNEOS FEDERADOS",
+      "source_key": "SICOP|2026LD-000022-0054511111"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000021-0054511111",
+      "Oportunidad": "Contratación de servicios de sonido y animación para torneo de natación",
+      "Institución/Entidad": "COMITÉ CANTONAL DE DEPORTES Y RECREACIÓN DE GRECIA",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 15:14",
+      "Cierre": "03/11/2026 10:00",
+      "Fuente/Enlace": "",
+      "Texto": "Contratación de servicios de sonido y animación para torneo de natación",
+      "source_key": "SICOP|2026LD-000021-0054511111"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026LD-000010-0020000306",
       "Oportunidad": "Conformación y homogenización del mapa catastral municipal de Alvarado, incluyendo la implementación base SIG para su aprovechamiento.",
       "Institución/Entidad": "MUNICIPALIDAD DE ALVARADO DE PACAYAS",
@@ -1435,6 +1890,45 @@
       "Fuente/Enlace": "",
       "Texto": "Conformación y homogenización del mapa catastral municipal de Alvarado, incluyendo la implementación base SIG para su aprovechamiento.",
       "source_key": "SICOP|2026LD-000010-0020000306"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000020-0054511111",
+      "Oportunidad": "COMPRA DE EQUIPO Y MOBILIARIO VARIADO",
+      "Institución/Entidad": "COMITÉ CANTONAL DE DEPORTES Y RECREACIÓN DE GRECIA",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 15:03",
+      "Cierre": "03/11/2026 10:00",
+      "Fuente/Enlace": "",
+      "Texto": "COMPRA DE EQUIPO Y MOBILIARIO VARIADO",
+      "source_key": "SICOP|2026LD-000020-0054511111"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026PX-000016-0001800001",
+      "Oportunidad": "Compra del Servicio de Reparación de los aires acondicionados de los Equipos Portuarios",
+      "Institución/Entidad": "JUNTA DE ADMINISTRACIÓN PORTUARIA Y DE DESARROLLO ECONÓMICO DE LA VERTIENTE ATLÁNTICA (JAPDEVA)",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 15:01",
+      "Cierre": "28/10/2026 14:00",
+      "Fuente/Enlace": "",
+      "Texto": "Compra del Servicio de Reparación de los aires acondicionados de los Equipos Portuarios",
+      "source_key": "SICOP|2026PX-000016-0001800001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LY-000049-0001102101",
+      "Oportunidad": "MOBILIARIO DE OFICINA HCG ",
+      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 15:00",
+      "Cierre": "24/11/2026 09:00",
+      "Fuente/Enlace": "",
+      "Texto": "MOBILIARIO DE OFICINA HCG ",
+      "source_key": "SICOP|2026LY-000049-0001102101"
     },
     {
       "Fuente": "SICOP",
@@ -1516,6 +2010,19 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026LD-000035-0007600001",
+      "Oportunidad": "Servicio de recolección, borrado/destrucción, y disposición final de residuos electrónicos",
+      "Institución/Entidad": "MINISTERIO DE VIVIENDA Y ASENTAMIENTO",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 14:43",
+      "Cierre": "29/10/2026 10:00",
+      "Fuente/Enlace": "",
+      "Texto": "Servicio de recolección, borrado/destrucción, y disposición final de residuos electrónicos",
+      "source_key": "SICOP|2026LD-000035-0007600001"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026LD-000085-0003100001",
       "Oportunidad": "COMPRA DE BOMBA HIDRÁULICA PIÑONES 82CC PARA EL CAMIÓN RECOLECTOR SM 5293",
       "Institución/Entidad": "MUNICIPALIDAD DE PUNTARENAS",
@@ -1526,6 +2033,45 @@
       "Fuente/Enlace": "",
       "Texto": "COMPRA DE BOMBA HIDRÁULICA PIÑONES 82CC PARA EL CAMIÓN RECOLECTOR SM 5293",
       "source_key": "SICOP|2026LD-000085-0003100001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000117-0002100001",
+      "Oportunidad": "SERVICIO DE ORGANIZACIÓN DE EVENTOS:  SUMMIT EMPRESARIAL INCLUSIVO Innovación, conexión y crecimiento empresarial",
+      "Institución/Entidad": "INSTITUTO NACIONAL DE APRENDIZAJE",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 14:43",
+      "Cierre": "28/10/2026 08:01",
+      "Fuente/Enlace": "",
+      "Texto": "SERVICIO DE ORGANIZACIÓN DE EVENTOS:  SUMMIT EMPRESARIAL INCLUSIVO Innovación, conexión y crecimiento empresarial",
+      "source_key": "SICOP|2026LD-000117-0002100001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000005-0012500001",
+      "Oportunidad": "MEJORAMIENTO DEL PORTAL DE COMUNICACIÓN DE BIODATACR DE CONAGEBIO",
+      "Institución/Entidad": "COMISIÓN NACIONAL PARA LA GESTIÓN DE LA BIODIVERSIDAD",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 14:43",
+      "Cierre": "29/10/2026 09:00",
+      "Fuente/Enlace": "",
+      "Texto": "MEJORAMIENTO DEL PORTAL DE COMUNICACIÓN DE BIODATACR DE CONAGEBIO",
+      "source_key": "SICOP|2026LD-000005-0012500001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000037-0001102105",
+      "Oportunidad": "oscilaciones profundas",
+      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 14:41",
+      "Cierre": "30/10/2026 10:00",
+      "Fuente/Enlace": "",
+      "Texto": "oscilaciones profundas",
+      "source_key": "SICOP|2026LD-000037-0001102105"
     },
     {
       "Fuente": "SICOP",
@@ -1555,6 +2101,32 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026LD-000044-0001102502",
+      "Oportunidad": "COMPRA DE VENTILADORES INDUSTRIALES DE PARED Y PEDESTAL",
+      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 14:35",
+      "Cierre": "30/10/2026 08:01",
+      "Fuente/Enlace": "",
+      "Texto": "COMPRA DE VENTILADORES INDUSTRIALES DE PARED Y PEDESTAL",
+      "source_key": "SICOP|2026LD-000044-0001102502"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026PX-000135-0018962008",
+      "Oportunidad": "L-392-2026 SUSCRIPCION PROGRAMAS CERTIPORT",
+      "Institución/Entidad": "UNIVERSIDAD TÉCNICA NACIONAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 14:34",
+      "Cierre": "28/10/2026 13:10",
+      "Fuente/Enlace": "",
+      "Texto": "L-392-2026 SUSCRIPCION PROGRAMAS CERTIPORT",
+      "source_key": "SICOP|2026PX-000135-0018962008"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026LD-000035-0027900001",
       "Oportunidad": "CONSTRUCCIÓN DE OBRA VIALES EN CAMINOS MUNICIPALES DEL CANTÓN DE LEÓN CORTÉS",
       "Institución/Entidad": "MUNICIPALIDAD DEL CANTÓN DE LEÓN CORTES",
@@ -1581,6 +2153,19 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026LY-000002-0001101103",
+      "Oportunidad": "“Contratación de seguros colectivos de protección crediticia (vida yotros seguros para deudores) bajo la modalidad de monto original",
+      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 14:29",
+      "Cierre": "18/11/2026 10:00",
+      "Fuente/Enlace": "",
+      "Texto": "“Contratación de seguros colectivos de protección crediticia (vida yotros seguros para deudores) bajo la modalidad de monto original",
+      "source_key": "SICOP|2026LY-000002-0001101103"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026PX-000008-0018400001",
       "Oportunidad": "Pauta publicitaria e información artículo 19, inciso c) de la Ley 8346 SINART",
       "Institución/Entidad": "OPERADORA DE PENSIONES COMPLEMENTARIAS Y DE CAPITALIZACIÓN LABORAL DE LA CAJA COSTARRICENSE DE SEGURO SOCIAL SOCIEDAD ANÓNIMA",
@@ -1591,6 +2176,19 @@
       "Fuente/Enlace": "",
       "Texto": "Pauta publicitaria e información artículo 19, inciso c) de la Ley 8346 SINART",
       "source_key": "SICOP|2026PX-000008-0018400001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000199-0001300002",
+      "Oportunidad": "Servicio de jardinería en el I Circuito Judicial de Alajuela",
+      "Institución/Entidad": "CORTE SUPREMA DE JUSTICIA-PODER JUDICIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 14:18",
+      "Cierre": "29/10/2026 07:30",
+      "Fuente/Enlace": "",
+      "Texto": "Servicio de jardinería en el I Circuito Judicial de Alajuela",
+      "source_key": "SICOP|2026LD-000199-0001300002"
     },
     {
       "Fuente": "SICOP",
@@ -1633,6 +2231,19 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026LD-000047-0001102202",
+      "Oportunidad": "SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO PARA MEDIDOR DE PH,CENTRIFUGA DE MESA, UNIDAD DENTAL FIJA Y SELLADORA DE PAPEL GRADO MEDICO",
+      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 14:03",
+      "Cierre": "30/10/2026 08:30",
+      "Fuente/Enlace": "",
+      "Texto": "SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO PARA MEDIDOR DE PH,CENTRIFUGA DE MESA, UNIDAD DENTAL FIJA Y SELLADORA DE PAPEL GRADO MEDICO",
+      "source_key": "SICOP|2026LD-000047-0001102202"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026LD-000054-0029400001",
       "Oportunidad": "Mantenimiento con base granular en camino Porvenir - Guapinol C-5-10-016.",
       "Institución/Entidad": "MUNICIPALIDAD DE LA CRUZ GUANACASTE",
@@ -1646,6 +2257,45 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026XE-000003-0006900001",
+      "Oportunidad": "“Construcción, Obras Complementarias y Avituallamiento de Cocina del Centro de Alta Contención y Crimen Organizado (CACCO)”",
+      "Institución/Entidad": "MINISTERIO DE JUSTICIA Y PAZ",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 13:57",
+      "Cierre": "28/10/2026 10:00",
+      "Fuente/Enlace": "",
+      "Texto": "“Construcción, Obras Complementarias y Avituallamiento de Cocina del Centro de Alta Contención y Crimen Organizado (CACCO)”",
+      "source_key": "SICOP|2026XE-000003-0006900001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LE-000010-0000100001",
+      "Oportunidad": "CONTRATACION DEL SERVICIO DE ADMINISTRACION, ALMACENAMIENTO, LIMPIEZA Y MANTENIMIENTO DEL MATERIAL PUBLICITARIO DEL BANCO NACIONAL DE COSTA RICA",
+      "Institución/Entidad": "BANCO NACIONAL DE COSTA RICA",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 13:55",
+      "Cierre": "16/11/2026 09:00",
+      "Fuente/Enlace": "",
+      "Texto": "CONTRATACION DEL SERVICIO DE ADMINISTRACION, ALMACENAMIENTO, LIMPIEZA Y MANTENIMIENTO DEL MATERIAL PUBLICITARIO DEL BANCO NACIONAL DE COSTA RICA",
+      "source_key": "SICOP|2026LE-000010-0000100001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LY-000027-0001300001",
+      "Oportunidad": "Compra de equipos tipo servidor, bajo la modalidad de entrega según demanda, por 4 años",
+      "Institución/Entidad": "CORTE SUPREMA DE JUSTICIA-PODER JUDICIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 13:48",
+      "Cierre": "25/11/2026 08:30",
+      "Fuente/Enlace": "",
+      "Texto": "Compra de equipos tipo servidor, bajo la modalidad de entrega según demanda, por 4 años",
+      "source_key": "SICOP|2026LY-000027-0001300001"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026LD-000110-0006600001",
       "Oportunidad": "Servicio de mantenimiento anual de licencias (Tricom)",
       "Institución/Entidad": "CONSEJO TÉCNICO DE AVIACIÓN CIVIL",
@@ -1656,6 +2306,19 @@
       "Fuente/Enlace": "",
       "Texto": "Servicio de mantenimiento anual de licencias (Tricom)",
       "source_key": "SICOP|2026LD-000110-0006600001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026XE-000920-0000400001",
+      "Oportunidad": "S.E.- Contratación Directa de Escasa Cuantía Adquisición de Aceites y grasas Región Chorotega (DG-2204-2026)",
+      "Institución/Entidad": "INSTITUTO COSTARRICENSE DE ELECTRICIDAD",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 13:27",
+      "Cierre": "02/11/2026 07:30",
+      "Fuente/Enlace": "",
+      "Texto": "S.E.- Contratación Directa de Escasa Cuantía Adquisición de Aceites y grasas Región Chorotega (DG-2204-2026)",
+      "source_key": "SICOP|2026XE-000920-0000400001"
     },
     {
       "Fuente": "SICOP",
@@ -1685,6 +2348,19 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026LD-000427-0001300001",
+      "Oportunidad": "Compra de mueble tipo biblioteca para uso del Juzgado de Ejecución Laboral",
+      "Institución/Entidad": "CORTE SUPREMA DE JUSTICIA-PODER JUDICIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 13:14",
+      "Cierre": "02/11/2026 07:30",
+      "Fuente/Enlace": "",
+      "Texto": "Compra de mueble tipo biblioteca para uso del Juzgado de Ejecución Laboral",
+      "source_key": "SICOP|2026LD-000427-0001300001"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026LD-000041-0004000001",
       "Oportunidad": "Servicio de mantenimiento preventivo para el sistema detector de metales tipo arco y para la puerta automática, ambos instalados en el edificio central ",
       "Institución/Entidad": "DEFENSORÍA DE LOS HABITANTES DE LA REPUBLICA",
@@ -1695,6 +2371,32 @@
       "Fuente/Enlace": "",
       "Texto": "Servicio de mantenimiento preventivo para el sistema detector de metales tipo arco y para la puerta automática, ambos instalados en el edificio central ",
       "source_key": "SICOP|2026LD-000041-0004000001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000048-0007300001",
+      "Oportunidad": "Adquisición de Herramientas e instrumentos",
+      "Institución/Entidad": "MINISTERIO DE EDUCACIÓN PUBLICA",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 13:08",
+      "Cierre": "30/10/2026 08:00",
+      "Fuente/Enlace": "",
+      "Texto": "Adquisición de Herramientas e instrumentos",
+      "source_key": "SICOP|2026LD-000048-0007300001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026PX-000024-0022100001",
+      "Oportunidad": "Servicio de reparación de aires acondicionados de la Procuraduría General de la República",
+      "Institución/Entidad": "PROCURADURÍA GENERAL DE LA REPUBLICA",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 12:57",
+      "Cierre": "30/10/2026 14:05",
+      "Fuente/Enlace": "",
+      "Texto": "Servicio de reparación de aires acondicionados de la Procuraduría General de la República",
+      "source_key": "SICOP|2026PX-000024-0022100001"
     },
     {
       "Fuente": "SICOP",
@@ -1776,6 +2478,19 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026LE-000015-0001102307",
+      "Oportunidad": "Catéteres 2026 Hospital William Allen Taylor",
+      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 12:31",
+      "Cierre": "13/11/2026 10:00",
+      "Fuente/Enlace": "",
+      "Texto": "Catéteres 2026 Hospital William Allen Taylor",
+      "source_key": "SICOP|2026LE-000015-0001102307"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026LE-000013-0007000001",
       "Oportunidad": "Compra de Licencias",
       "Institución/Entidad": "MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL",
@@ -1786,6 +2501,19 @@
       "Fuente/Enlace": "",
       "Texto": "Compra de Licencias",
       "source_key": "SICOP|2026LE-000013-0007000001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LE-000097-0001102102",
+      "Oportunidad": "MANGO ELECTROQUIRURGICO",
+      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 12:26",
+      "Cierre": "06/11/2026 09:00",
+      "Fuente/Enlace": "",
+      "Texto": "MANGO ELECTROQUIRURGICO",
+      "source_key": "SICOP|2026LE-000097-0001102102"
     },
     {
       "Fuente": "SICOP",
@@ -1867,6 +2595,19 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026XE-000919-0000400001",
+      "Oportunidad": "SE Contratación de Escasa Cuantía Adquisición Servicio de Creación de plantillas para diseño de subestaciones. / GE-292 / DISA",
+      "Institución/Entidad": "INSTITUTO COSTARRICENSE DE ELECTRICIDAD",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 11:51",
+      "Cierre": "02/11/2026 07:30",
+      "Fuente/Enlace": "",
+      "Texto": "SE Contratación de Escasa Cuantía Adquisición Servicio de Creación de plantillas para diseño de subestaciones. / GE-292 / DISA",
+      "source_key": "SICOP|2026XE-000919-0000400001"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026PX-000012-0018700001",
       "Oportunidad": "AJUSTE A AUMENTO EN CARACTERISTICAS TECNICAS COMPONENTES  AL CONTRATO 2024LD-000008-0018700001 DE HOSTING PARA ALMACENAJE DE LA PÁGINA WEB INSTITUCIONAL, Y APLICACIONES.",
       "Institución/Entidad": "COLEGIO UNIVERSITARIO DE CARTAGO",
@@ -1880,6 +2621,19 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026LD-000198-0001300002",
+      "Oportunidad": "Cámara fotográfica digital - Escuela Judicial",
+      "Institución/Entidad": "CORTE SUPREMA DE JUSTICIA-PODER JUDICIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 11:44",
+      "Cierre": "02/11/2026 08:00",
+      "Fuente/Enlace": "",
+      "Texto": "Cámara fotográfica digital - Escuela Judicial",
+      "source_key": "SICOP|2026LD-000198-0001300002"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026PX-000290-0006500001",
       "Oportunidad": "[PX] (CE) OBRAS DE RECONSTRUCCIÓN DE TRES PASOS DE AGUA AFECTADOS, EN CAMINOS 7-06-241, CAMINO A MONTE DE DIOS, DISTRITO GUÁCIMO, CANTÓN GUÁCIMO “",
       "Institución/Entidad": "COMISIÓN NACIONAL DE PREVENCIÓN DE RIESGOS Y ATENCIÓN DE EMERGENCIAS",
@@ -1890,6 +2644,19 @@
       "Fuente/Enlace": "",
       "Texto": "[PX] (CE) OBRAS DE RECONSTRUCCIÓN DE TRES PASOS DE AGUA AFECTADOS, EN CAMINOS 7-06-241, CAMINO A MONTE DE DIOS, DISTRITO GUÁCIMO, CANTÓN GUÁCIMO “",
       "source_key": "SICOP|2026PX-000290-0006500001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000105-0019500001",
+      "Oportunidad": "SM-040-2026 COMPRA, SERVICIO DE CONSTRUCCIÓN Y MANTENIMIENTO DE PLAYGROUNDS PARA PARQUES",
+      "Institución/Entidad": "MUNICIPALIDAD DE ASERRÍ",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 11:43",
+      "Cierre": "29/10/2026 09:00",
+      "Fuente/Enlace": "",
+      "Texto": "SM-040-2026 COMPRA, SERVICIO DE CONSTRUCCIÓN Y MANTENIMIENTO DE PLAYGROUNDS PARA PARQUES",
+      "source_key": "SICOP|2026LD-000105-0019500001"
     },
     {
       "Fuente": "SICOP",
@@ -1919,6 +2686,19 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026LD-000033-0001101161",
+      "Oportunidad": "Servicio de alquiler de salón o sala de eventos con alimentación incluida.",
+      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 11:36",
+      "Cierre": "30/10/2026 09:00",
+      "Fuente/Enlace": "",
+      "Texto": "Servicio de alquiler de salón o sala de eventos con alimentación incluida.",
+      "source_key": "SICOP|2026LD-000033-0001101161"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026LD-000161-0021600001",
       "Oportunidad": "Servicio de compra e instalación de módulos infantiles para parques del cantón de Desamparados",
       "Institución/Entidad": "MUNICIPALIDAD DE DESAMPARADOS",
@@ -1942,6 +2722,19 @@
       "Fuente/Enlace": "",
       "Texto": "SERVICIOS DE LOGÍSTICA Y DESARROLLO RUEDA DE LA FORTUNA EN EL CENTRO CULTURAL OMAR DENGO, HEREDIA, NOVIEMBRE, 2026",
       "source_key": "SICOP|2026LD-000042-0015600001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000035-0001102799",
+      "Oportunidad": "CLIMATIZACIÓN Y REPARACIONES MENORES DEL SERVICIO DE URGENCIAS DEL ÁREADE SALUD DE BUENOS AIRES",
+      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 11:32",
+      "Cierre": "30/10/2026 10:00",
+      "Fuente/Enlace": "",
+      "Texto": "CLIMATIZACIÓN Y REPARACIONES MENORES DEL SERVICIO DE URGENCIAS DEL ÁREADE SALUD DE BUENOS AIRES",
+      "source_key": "SICOP|2026LD-000035-0001102799"
     },
     {
       "Fuente": "SICOP",
@@ -2023,6 +2816,19 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026LD-000104-0019500001",
+      "Oportunidad": "PUBLICACION EN UN PERIODICO DE CIRCULACION NACIONAL EN ATENCION A LA LEY 7509",
+      "Institución/Entidad": "MUNICIPALIDAD DE ASERRÍ",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 11:13",
+      "Cierre": "29/10/2026 09:00",
+      "Fuente/Enlace": "",
+      "Texto": "PUBLICACION EN UN PERIODICO DE CIRCULACION NACIONAL EN ATENCION A LA LEY 7509",
+      "source_key": "SICOP|2026LD-000104-0019500001"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026LD-000064-0022200208",
       "Oportunidad": "Contratación de servicios profesionales de ingeniería modalidad entrega según demanda",
       "Institución/Entidad": "MUNICIPALIDAD DEL CANTÓN DE POAS",
@@ -2101,6 +2907,19 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026LE-000025-0001102207",
+      "Oportunidad": "AGRUPAMIENTO PARA ADQUISICIÓN DE PRUEBAS PSICOLÓGICAS-NÚCLEO 2207",
+      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 11:04",
+      "Cierre": "13/11/2026 10:00",
+      "Fuente/Enlace": "",
+      "Texto": "AGRUPAMIENTO PARA ADQUISICIÓN DE PRUEBAS PSICOLÓGICAS-NÚCLEO 2207",
+      "source_key": "SICOP|2026LE-000025-0001102207"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026LD-000109-0002200001",
       "Oportunidad": "CONTRATACIÓN DE  SERVICIOS CAPACITACIÓN PARA EL COMITÉ CANTONAL DE LA PERSONA JOVEN DE MORA EN INTRODUCCIÓN AL LENGUAJE DE SEÑAS COSTARRICENSE LESCO",
       "Institución/Entidad": "MUNICIPALIDAD DE MORA",
@@ -2111,6 +2930,32 @@
       "Fuente/Enlace": "",
       "Texto": "CONTRATACIÓN DE  SERVICIOS CAPACITACIÓN PARA EL COMITÉ CANTONAL DE LA PERSONA JOVEN DE MORA EN INTRODUCCIÓN AL LENGUAJE DE SEÑAS COSTARRICENSE LESCO",
       "source_key": "SICOP|2026LD-000109-0002200001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000051-0002700001",
+      "Oportunidad": "Diseño, fabricación e instalación de letras luminosas de identidad distrital para el Cantón de Alajuelita.(DPC)",
+      "Institución/Entidad": "MUNICIPALIDAD DE ALAJUELITA",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 11:00",
+      "Cierre": "30/10/2026 08:30",
+      "Fuente/Enlace": "",
+      "Texto": "Diseño, fabricación e instalación de letras luminosas de identidad distrital para el Cantón de Alajuelita.(DPC)",
+      "source_key": "SICOP|2026LD-000051-0002700001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000050-0002700001",
+      "Oportunidad": "03-2026-CU-Mejoras Constructivas en la Escuela de Lamparas",
+      "Institución/Entidad": "MUNICIPALIDAD DE ALAJUELITA",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 10:58",
+      "Cierre": "02/11/2026 09:00",
+      "Fuente/Enlace": "",
+      "Texto": "03-2026-CU-Mejoras Constructivas en la Escuela de Lamparas",
+      "source_key": "SICOP|2026LD-000050-0002700001"
     },
     {
       "Fuente": "SICOP",
@@ -2166,6 +3011,19 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026LD-000103-0019500001",
+      "Oportunidad": "N.° DGAB-052-18-2026: CONFECCIÓN DE MANGUERAS HIDRÁULICAS",
+      "Institución/Entidad": "MUNICIPALIDAD DE ASERRÍ",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 10:41",
+      "Cierre": "29/10/2026 09:00",
+      "Fuente/Enlace": "",
+      "Texto": "N.° DGAB-052-18-2026: CONFECCIÓN DE MANGUERAS HIDRÁULICAS",
+      "source_key": "SICOP|2026LD-000103-0019500001"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026LD-000128-0032000702",
       "Oportunidad": "Compra de herramientas para Inspectores",
       "Institución/Entidad": "MUNICIPALIDAD DEL CANTÓN DE POCOCÍ",
@@ -2189,6 +3047,19 @@
       "Fuente/Enlace": "",
       "Texto": "Contratación por servicios Profesionales en Trabajo Social, para brindar apoyo en el cumplimiento del Plan de Trabajo de la Oficina de Niñez, Adolescencia y Juventud.",
       "source_key": "SICOP|2026LD-000160-0021600001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000426-0001300001",
+      "Oportunidad": "Desinstalación, suministro e instalación de un equipo de aire acondicionado Edificio Defensa Cicil de la Víctima.",
+      "Institución/Entidad": "CORTE SUPREMA DE JUSTICIA-PODER JUDICIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 10:18",
+      "Cierre": "02/11/2026 07:30",
+      "Fuente/Enlace": "",
+      "Texto": "Desinstalación, suministro e instalación de un equipo de aire acondicionado Edificio Defensa Cicil de la Víctima.",
+      "source_key": "SICOP|2026LD-000426-0001300001"
     },
     {
       "Fuente": "SICOP",
@@ -2270,6 +3141,45 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026LD-000022-0029000001",
+      "Oportunidad": "ESTUDIO HIDROLÓGICO E HIDRÁULICO DEL TRAMO VIAL DEL POBLADO CONCEPCIÓN, CÓDIGO DE CAMINO 5-07-013",
+      "Institución/Entidad": "CONCEJO MUNICIPAL DE DISTRITO DE COLORADO DE ABANGARES",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 09:48",
+      "Cierre": "30/10/2026 10:00",
+      "Fuente/Enlace": "",
+      "Texto": "ESTUDIO HIDROLÓGICO E HIDRÁULICO DEL TRAMO VIAL DEL POBLADO CONCEPCIÓN, CÓDIGO DE CAMINO 5-07-013",
+      "source_key": "SICOP|2026LD-000022-0029000001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000425-0001300001",
+      "Oportunidad": "Compra de Microondas para los comedores del Edificio de Tribunales, Torre Judicial y San Sebastián",
+      "Institución/Entidad": "CORTE SUPREMA DE JUSTICIA-PODER JUDICIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 09:43",
+      "Cierre": "02/11/2026 08:00",
+      "Fuente/Enlace": "",
+      "Texto": "Compra de Microondas para los comedores del Edificio de Tribunales, Torre Judicial y San Sebastián",
+      "source_key": "SICOP|2026LD-000425-0001300001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000039-0001102501",
+      "Oportunidad": "Mantenimiento Preventivo, Correctivo y Repuestos para Equipos de Emisiones Otacústicas.",
+      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 09:42",
+      "Cierre": "30/10/2026 10:00",
+      "Fuente/Enlace": "",
+      "Texto": "Mantenimiento Preventivo, Correctivo y Repuestos para Equipos de Emisiones Otacústicas.",
+      "source_key": "SICOP|2026LD-000039-0001102501"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026PX-000289-0006500001",
       "Oportunidad": "(CEL)  Alquiler de maquinaria pesada para atender emergencia en el cantón de Upala, distritos Bijagua, río Bijagua",
       "Institución/Entidad": "COMISIÓN NACIONAL DE PREVENCIÓN DE RIESGOS Y ATENCIÓN DE EMERGENCIAS",
@@ -2319,6 +3229,19 @@
       "Fuente/Enlace": "",
       "Texto": "Adquisición de suministros de ferretería para Gestión de Riesgo",
       "source_key": "SICOP|2026LD-000089-0012000001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000197-0001300002",
+      "Oportunidad": "Toner para impresora - DAG",
+      "Institución/Entidad": "CORTE SUPREMA DE JUSTICIA-PODER JUDICIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 09:30",
+      "Cierre": "02/11/2026 08:00",
+      "Fuente/Enlace": "",
+      "Texto": "Toner para impresora - DAG",
+      "source_key": "SICOP|2026LD-000197-0001300002"
     },
     {
       "Fuente": "SICOP",
@@ -2374,6 +3297,19 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026LD-000006-0009800001",
+      "Oportunidad": "Servicios de preproducción, producción y postproducción del Salón Nacional de Artes Visuales del Museo de Arte Costarricense(MAC)",
+      "Institución/Entidad": "MUSEO DE ARTE COSTARRICENSE",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 09:13",
+      "Cierre": "30/10/2026 09:00",
+      "Fuente/Enlace": "",
+      "Texto": "Servicios de preproducción, producción y postproducción del Salón Nacional de Artes Visuales del Museo de Arte Costarricense(MAC)",
+      "source_key": "SICOP|2026LD-000006-0009800001"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026LE-000012-0003400001",
       "Oportunidad": "Adquisición de camiones de carga ligera 4x4 con sistema de volteo bajo modalidad de pago mixto.",
       "Institución/Entidad": "MUNICIPALIDAD DE MONTES DE OCA",
@@ -2397,6 +3333,32 @@
       "Fuente/Enlace": "",
       "Texto": "Servicio de alquiler de repetidora y frecuencia para radios de comunicación de Gestión de Riesgo",
       "source_key": "SICOP|2026LD-000088-0012000001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000200-0001102102",
+      "Oportunidad": "PARAGUAS AUTOMÁTICO CON FILTRO SOLAR Y MANGO DE ESPUMA CON LOGOINSTITUCIONAL",
+      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 08:42",
+      "Cierre": "30/10/2026 09:00",
+      "Fuente/Enlace": "",
+      "Texto": "PARAGUAS AUTOMÁTICO CON FILTRO SOLAR Y MANGO DE ESPUMA CON LOGOINSTITUCIONAL",
+      "source_key": "SICOP|2026LD-000200-0001102102"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000010-0023000001",
+      "Oportunidad": "Contratación de servicios de infraestructura tecnológica en la nube para el SINART S.A.",
+      "Institución/Entidad": "SISTEMA NACIONAL DE RADIO Y TELEVISIÓN SOCIEDAD ANÓNIMA",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 08:41",
+      "Cierre": "02/11/2026 10:00",
+      "Fuente/Enlace": "",
+      "Texto": "Contratación de servicios de infraestructura tecnológica en la nube para el SINART S.A.",
+      "source_key": "SICOP|2026LD-000010-0023000001"
     },
     {
       "Fuente": "SICOP",
@@ -2452,6 +3414,32 @@
     },
     {
       "Fuente": "SICOP",
+      "Identificador": "2026PX-000007-0001102102",
+      "Oportunidad": "SISTEMA DOS PIEZAS UROSTOMÍA ADULTO",
+      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 08:13",
+      "Cierre": "30/10/2026 08:00",
+      "Fuente/Enlace": "",
+      "Texto": "SISTEMA DOS PIEZAS UROSTOMÍA ADULTO",
+      "source_key": "SICOP|2026PX-000007-0001102102"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000140-0003500001",
+      "Oportunidad": "EQUIPO PARA SEGURIDAD DE EDIFICIOS Y BIENES",
+      "Institución/Entidad": "UNIVERSIDAD NACIONAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 08:10",
+      "Cierre": "30/10/2026 09:01",
+      "Fuente/Enlace": "",
+      "Texto": "EQUIPO PARA SEGURIDAD DE EDIFICIOS Y BIENES",
+      "source_key": "SICOP|2026LD-000140-0003500001"
+    },
+    {
+      "Fuente": "SICOP",
       "Identificador": "2026LD-000063-0022200208",
       "Oportunidad": "Adquisición de vehículo para el Departamento de Cementerios Municipales",
       "Institución/Entidad": "MUNICIPALIDAD DEL CANTÓN DE POAS",
@@ -2488,6 +3476,19 @@
       "Fuente/Enlace": "",
       "Texto": "Contratación servicio de revisión, recarga y adquisición de extintores",
       "source_key": "SICOP|2026LD-000061-0022200208"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000048-0004611901",
+      "Oportunidad": "CONTRATACIÓN DE SUMINISTRO DE MATERIALES Y MANO DE OBRA PARA EL INICIO DE LA CONSTRUCCIÓN DE LA DELEGACIÓN DE LA FUERZA PÚBLICA EN GENERAL VIEJO",
+      "Institución/Entidad": "MUNICIPALIDAD DE PÉREZ ZELEDÓN",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "23/10/2026 07:33",
+      "Cierre": "30/10/2026 10:00",
+      "Fuente/Enlace": "",
+      "Texto": "CONTRATACIÓN DE SUMINISTRO DE MATERIALES Y MANO DE OBRA PARA EL INICIO DE LA CONSTRUCCIÓN DE LA DELEGACIÓN DE LA FUERZA PÚBLICA EN GENERAL VIEJO",
+      "source_key": "SICOP|2026LD-000048-0004611901"
     },
     {
       "Fuente": "SICOP",
@@ -3609,19 +4610,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026PX-000012-0003000001",
-      "Oportunidad": "Servicio de publicación de Concursos externos de la Municipalidad de Flores”",
-      "Institución/Entidad": "MUNICIPALIDAD DEL CANTÓN DE FLORES",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "22/10/2026 12:05",
-      "Cierre": "26/10/2026 08:00",
-      "Fuente/Enlace": "",
-      "Texto": "Servicio de publicación de Concursos externos de la Municipalidad de Flores”",
-      "source_key": "SICOP|2026PX-000012-0003000001"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026LD-000006-0028011201",
       "Oportunidad": "“ADQUISICIÓN DE HERRAMIENTAS MECÁNICAS Y DE OBRA GRIS 2026“",
       "Institución/Entidad": "MUNICIPALIDAD DE ACOSTA",
@@ -4467,19 +5455,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026XE-000021-0001102104",
-      "Oportunidad": "LETERMOVIR 240 MG, ANTIVIRAL, TABLETA RECUBIERTA",
-      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "21/10/2026 18:06",
-      "Cierre": "26/10/2026 09:00",
-      "Fuente/Enlace": "",
-      "Texto": "LETERMOVIR 240 MG, ANTIVIRAL, TABLETA RECUBIERTA",
-      "source_key": "SICOP|2026XE-000021-0001102104"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026LD-000077-0032520274",
       "Oportunidad": "CONTRATACIÓN DE SERVICIOS DE INSCRIPCIÓN EN COMPETENCIAS DEPORTIVAS Y CAPACITACIÓN TÉCNICA PARA ASOCIACIONES DEPORTIVAS",
       "Institución/Entidad": "COMITÉ CANTONAL DE DEPORTES Y RECREACIÓN DE SAN CARLOS",
@@ -4763,6 +5738,19 @@
       "Fuente/Enlace": "",
       "Texto": "SUSCRIPCIÓN DE LICENCIAS DE INTELIGENCIA ARTIFICAL GENERATIVA",
       "source_key": "SICOP|2026LD-000300-0006300001"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000002-0051700001",
+      "Oportunidad": "COMPRA ARTICULOS DE LIMPIEZA Y PAÑALES",
+      "Institución/Entidad": "ASOCIACIÓN AMIGO DEL ANCIANO DE CAÑAS",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "21/10/2026 15:50",
+      "Cierre": "11/11/2026 16:00",
+      "Fuente/Enlace": "",
+      "Texto": "COMPRA ARTICULOS DE LIMPIEZA Y PAÑALES",
+      "source_key": "SICOP|2026LD-000002-0051700001"
     },
     {
       "Fuente": "SICOP",
@@ -5130,19 +6118,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026XE-000019-0021400001",
-      "Oportunidad": "Contratación de Urgencia para el Arrendamiento de Inmueble destinado al funcionamiento de la Unidad Cantonal AyA La Cruz de la Región Chorotega",
-      "Institución/Entidad": "INSTITUTO COSTARRICENSE DE ACUEDUCTOS Y ALCANTARILLADOS",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "21/10/2026 14:53",
-      "Cierre": "26/10/2026 08:10",
-      "Fuente/Enlace": "",
-      "Texto": "Contratación de Urgencia para el Arrendamiento de Inmueble destinado al funcionamiento de la Unidad Cantonal AyA La Cruz de la Región Chorotega",
-      "source_key": "SICOP|2026XE-000019-0021400001"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026PX-000019-0004000001",
       "Oportunidad": "Servicio de mantenimiento correctivo para los aires acondicionados ubicados en las Aulas de Capactiación",
       "Institución/Entidad": "DEFENSORÍA DE LOS HABITANTES DE LA REPUBLICA",
@@ -5179,19 +6154,6 @@
       "Fuente/Enlace": "",
       "Texto": "Asesoría y apoyo en  revisión de tasas,  aseo de vías, recolección de basura, cementerio y parques.",
       "source_key": "SICOP|2026LD-000123-0023300001"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LD-000055-0024300001",
-      "Oportunidad": "Contratación de servicios profesionales para diagnosticar y cerrar brechas en la implementación de las Normas Internacionales de Contabilidad para el Sector Público (NICSP)",
-      "Institución/Entidad": "MUNICIPALIDAD DE GUATUSO",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "21/10/2026 14:52",
-      "Cierre": "26/10/2026 09:15",
-      "Fuente/Enlace": "",
-      "Texto": "Contratación de servicios profesionales para diagnosticar y cerrar brechas en la implementación de las Normas Internacionales de Contabilidad para el Sector Público (NICSP)",
-      "source_key": "SICOP|2026LD-000055-0024300001"
     },
     {
       "Fuente": "SICOP",
@@ -6131,19 +7093,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026PX-000043-0003100001",
-      "Oportunidad": "CONTRATACIÓN PARA EL MANTENIMIENTO Y REPARACION DE EQUIPOS DE AIRE ACONDICIONADO EN EL SALON DE SESIONES DEL CONCEJO MUNICIPAL Y LA OFICINA DE AUDITORIA INTERNA",
-      "Institución/Entidad": "MUNICIPALIDAD DE PUNTARENAS",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "21/10/2026 09:44",
-      "Cierre": "26/10/2026 08:00",
-      "Fuente/Enlace": "",
-      "Texto": "CONTRATACIÓN PARA EL MANTENIMIENTO Y REPARACION DE EQUIPOS DE AIRE ACONDICIONADO EN EL SALON DE SESIONES DEL CONCEJO MUNICIPAL Y LA OFICINA DE AUDITORIA INTERNA",
-      "source_key": "SICOP|2026PX-000043-0003100001"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026LD-000119-0001102701",
       "Oportunidad": "DETERGENTE SIMPLE EN POLVO",
       "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
@@ -6456,19 +7405,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026XE-000171-0001101142",
-      "Oportunidad": "LIDOCAINA CLORHIDRATO AL 2 PORCIENTO (20 mg / mL) SIN PRESERVANTE. SOLUCION INYECTABLE, ADMINISTRACION INFILTRACIÓN, USO HUMANO",
-      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "21/10/2026 07:40",
-      "Cierre": "04/11/2026 10:00",
-      "Fuente/Enlace": "",
-      "Texto": "LIDOCAINA CLORHIDRATO AL 2 PORCIENTO (20 mg / mL) SIN PRESERVANTE. SOLUCION INYECTABLE, ADMINISTRACION INFILTRACIÓN, USO HUMANO",
-      "source_key": "SICOP|2026XE-000171-0001101142"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026LY-000011-0016700105",
       "Oportunidad": "Servicio de complete care para la plataforma tecnológica de la marca HEWLETT PACKARD (HPE). SOLPE 2026000156 / CA20260207",
       "Institución/Entidad": "REFINADORA COSTARRICENSE DE PETRÓLEO SOCIEDAD ANÓNIMA",
@@ -6492,19 +7428,6 @@
       "Fuente/Enlace": "",
       "Texto": "Reparación de motor del sistema de extracción de aire del edificio de la Faculta de Derecho",
       "source_key": "SICOP|2026LD-000122-0000900016"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026PX-000024-0001101161",
-      "Oportunidad": "Capacitación Abierta – Jurisprudencia en Contratación Pública",
-      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "21/10/2026 07:29",
-      "Cierre": "26/10/2026 09:00",
-      "Fuente/Enlace": "",
-      "Texto": "Capacitación Abierta – Jurisprudencia en Contratación Pública",
-      "source_key": "SICOP|2026PX-000024-0001101161"
     },
     {
       "Fuente": "SICOP",
@@ -6570,6 +7493,19 @@
       "Fuente/Enlace": "",
       "Texto": "Reparación vehículo 200-3750 del Área de Salud Desamparados 3",
       "source_key": "SICOP|2026PX-000001-0001102315"
+    },
+    {
+      "Fuente": "SICOP",
+      "Identificador": "2026LD-000234-0018962008",
+      "Oportunidad": "L-396-2026 COMEDEROS Y BEBEDEROS PARA ANIMALES",
+      "Institución/Entidad": "UNIVERSIDAD TÉCNICA NACIONAL",
+      "País": "Costa Rica",
+      "Monto": "No informado",
+      "Fecha de publicación": "20/10/2026 18:27",
+      "Cierre": "27/10/2026 10:05",
+      "Fuente/Enlace": "",
+      "Texto": "L-396-2026 COMEDEROS Y BEBEDEROS PARA ANIMALES",
+      "source_key": "SICOP|2026LD-000234-0018962008"
     },
     {
       "Fuente": "SICOP",
@@ -7190,7 +8126,7 @@
       "País": "Costa Rica",
       "Monto": "No informado",
       "Fecha de publicación": "20/10/2026 14:56",
-      "Cierre": "27/10/2026 09:00",
+      "Cierre": "03/11/2026 09:00",
       "Fuente/Enlace": "",
       "Texto": "Adquisición e implementación de equipos de audio, video y cómputo para la Sala de Sesiones del Concejo Municipal y el Auditorio Municipal",
       "source_key": "SICOP|2026LD-000032-0024250801"
@@ -8575,19 +9511,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026LD-000095-0012300001",
-      "Oportunidad": "MANTENIMIENTO PREVENTIVO Y CORRECTIVO ANUAL UPS (40 KVA) QUE RESPALDA EDIFICIO ELECTORAL",
-      "Institución/Entidad": "TRIBUNAL SUPREMO DE ELECCIONES",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "19/10/2026 16:23",
-      "Cierre": "26/10/2026 08:05",
-      "Fuente/Enlace": "",
-      "Texto": "MANTENIMIENTO PREVENTIVO Y CORRECTIVO ANUAL UPS (40 KVA) QUE RESPALDA EDIFICIO ELECTORAL",
-      "source_key": "SICOP|2026LD-000095-0012300001"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026LE-000009-0003100001",
       "Oportunidad": "ADQUISICIÓN DE UNA COMPACTADORA Y UNA NIVELADORA PARA EL MANTENIMIENTO DE LA RED VIAL CANTONAL DE PUNTARENAS",
       "Institución/Entidad": "MUNICIPALIDAD DE PUNTARENAS",
@@ -8692,19 +9615,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026LD-000071-0008000001",
-      "Oportunidad": "MANTENIMIENTO Y REPARACIÓN DE EQUIPO Y MOBILIARIO DE OFICINAY DE PRODUCCIÓN",
-      "Institución/Entidad": "MINISTERIO DE CULTURA JUVENTUD",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "19/10/2026 16:03",
-      "Cierre": "26/10/2026 09:00",
-      "Fuente/Enlace": "",
-      "Texto": "MANTENIMIENTO Y REPARACIÓN DE EQUIPO Y MOBILIARIO DE OFICINAY DE PRODUCCIÓN",
-      "source_key": "SICOP|2026LD-000071-0008000001"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026LD-000053-0024300001",
       "Oportunidad": "Reacondicionamiento de la plataforma, carga y acarreo de material en los caminos 2-15-041, 2-15-042 y 2-15-043",
       "Institución/Entidad": "MUNICIPALIDAD DE GUATUSO",
@@ -8796,32 +9706,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026LD-000025-0002100003",
-      "Oportunidad": "COMPRA DE UTILES Y MATERIALES PARA LIMPIEZA Y OTROS USOS",
-      "Institución/Entidad": "INSTITUTO NACIONAL DE APRENDIZAJE",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "19/10/2026 15:25",
-      "Cierre": "26/10/2026 08:30",
-      "Fuente/Enlace": "",
-      "Texto": "COMPRA DE UTILES Y MATERIALES PARA LIMPIEZA Y OTROS USOS",
-      "source_key": "SICOP|2026LD-000025-0002100003"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LE-000002-0024100001",
-      "Oportunidad": "Servicios de Construcción en diferentes partes del Cantón, DAD-0950-2026 / DAD-02462-2026 / DAD-02487-2026",
-      "Institución/Entidad": "MUNICIPALIDAD DE GOICOECHEA",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "19/10/2026 15:25",
-      "Cierre": "26/10/2026 07:31",
-      "Fuente/Enlace": "",
-      "Texto": "Servicios de Construcción en diferentes partes del Cantón, DAD-0950-2026 / DAD-02462-2026 / DAD-02487-2026",
-      "source_key": "SICOP|2026LE-000002-0024100001"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026LD-000012-0013600001",
       "Oportunidad": "Mantenimiento de edificio del Área Rectora de Salud de Carrillo del Ministerio de Salud",
       "Institución/Entidad": "CONTRATO DE FIDEICOMISO NO OCHO SIETE DOS MINISTERIO DE SALUD - BANCO NACIONAL DE COSTA RICA",
@@ -8832,32 +9716,6 @@
       "Fuente/Enlace": "",
       "Texto": "Mantenimiento de edificio del Área Rectora de Salud de Carrillo del Ministerio de Salud",
       "source_key": "SICOP|2026LD-000012-0013600001"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LD-000045-0007300001",
-      "Oportunidad": "Adquisición de candados",
-      "Institución/Entidad": "MINISTERIO DE EDUCACIÓN PUBLICA",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "19/10/2026 15:13",
-      "Cierre": "26/10/2026 08:00",
-      "Fuente/Enlace": "",
-      "Texto": "Adquisición de candados",
-      "source_key": "SICOP|2026LD-000045-0007300001"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LD-000081-0001600003",
-      "Oportunidad": "COMPRA DE ROTULOS MRCH",
-      "Institución/Entidad": "PROGRAMA INTEGRAL DE MERCADEO AGROPECUARIO",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "19/10/2026 15:11",
-      "Cierre": "26/10/2026 08:01",
-      "Fuente/Enlace": "",
-      "Texto": "COMPRA DE ROTULOS MRCH",
-      "source_key": "SICOP|2026LD-000081-0001600003"
     },
     {
       "Fuente": "SICOP",
@@ -8910,32 +9768,6 @@
       "Fuente/Enlace": "",
       "Texto": "COMPRA DE UNIFORMES PARA EL COMITÉ CANTONAL DE DEPORTES Y RECREACIÓN DE ATENAS",
       "source_key": "SICOP|2026LD-000036-0005500001"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LD-000070-0008000001",
-      "Oportunidad": "APOYO EN LA GESTIÓN DE PROCESOS SOCIOEDUCATIVOS QUE FORMAN PARTE DEL ACOMPAÑAMIENTO TÉCNICO A ORGANIZACIONES CULTURALES QUE BRINDA LA DGS EN LAS REGIONES",
-      "Institución/Entidad": "MINISTERIO DE CULTURA JUVENTUD",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "19/10/2026 15:06",
-      "Cierre": "26/10/2026 09:01",
-      "Fuente/Enlace": "",
-      "Texto": "APOYO EN LA GESTIÓN DE PROCESOS SOCIOEDUCATIVOS QUE FORMAN PARTE DEL ACOMPAÑAMIENTO TÉCNICO A ORGANIZACIONES CULTURALES QUE BRINDA LA DGS EN LAS REGIONES",
-      "source_key": "SICOP|2026LD-000070-0008000001"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LD-000195-0001102102",
-      "Oportunidad": "CAJA PLÁSTICA CON TAPA",
-      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "19/10/2026 14:59",
-      "Cierre": "26/10/2026 09:00",
-      "Fuente/Enlace": "",
-      "Texto": "CAJA PLÁSTICA CON TAPA",
-      "source_key": "SICOP|2026LD-000195-0001102102"
     },
     {
       "Fuente": "SICOP",
@@ -9056,19 +9888,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026LD-000105-0002200001",
-      "Oportunidad": "SERVICIOS PROFESIONALES PARA ESTUDIO DE CARGA DE TRABAJO DE PLANIFICACION Y ORDENAMIENTO TERRITORIAL DE LA MUNICIPALIDAD DE MORA",
-      "Institución/Entidad": "MUNICIPALIDAD DE MORA",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "19/10/2026 13:41",
-      "Cierre": "26/10/2026 09:00",
-      "Fuente/Enlace": "",
-      "Texto": "SERVICIOS PROFESIONALES PARA ESTUDIO DE CARGA DE TRABAJO DE PLANIFICACION Y ORDENAMIENTO TERRITORIAL DE LA MUNICIPALIDAD DE MORA",
-      "source_key": "SICOP|2026LD-000105-0002200001"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026LD-000232-0018962008",
       "Oportunidad": "L-395-2026 EXTINTORES",
       "Institución/Entidad": "UNIVERSIDAD TÉCNICA NACIONAL",
@@ -9105,19 +9924,6 @@
       "Fuente/Enlace": "",
       "Texto": "SE-Contratación directa de escasa cuantía para el Servicio de asfaltado camino la Altura PH Peñas Blancas (DG-2271-2026) .",
       "source_key": "SICOP|2026XE-000902-0000400001"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LD-000005-0009800001",
-      "Oportunidad": "Servicio de mantenimiento, y revisión y recarga de extintores del Museo de Arte Costarricense",
-      "Institución/Entidad": "MUSEO DE ARTE COSTARRICENSE",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "19/10/2026 13:18",
-      "Cierre": "26/10/2026 09:00",
-      "Fuente/Enlace": "",
-      "Texto": "Servicio de mantenimiento, y revisión y recarga de extintores del Museo de Arte Costarricense",
-      "source_key": "SICOP|2026LD-000005-0009800001"
     },
     {
       "Fuente": "SICOP",
@@ -9183,19 +9989,6 @@
       "Fuente/Enlace": "",
       "Texto": "Contratación del servicio de alquiler de radios de comunicación portátiles, radios móviles, radios base y una repetidora digital DMR.",
       "source_key": "SICOP|2026LE-000009-0004100001"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LD-000012-0001102331",
-      "Oportunidad": "LLANTAS Y NEUMATICOS ",
-      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "19/10/2026 12:26",
-      "Cierre": "26/10/2026 08:00",
-      "Fuente/Enlace": "",
-      "Texto": "LLANTAS Y NEUMATICOS ",
-      "source_key": "SICOP|2026LD-000012-0001102331"
     },
     {
       "Fuente": "SICOP",
@@ -9316,19 +10109,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026LD-000079-0003300001",
-      "Oportunidad": "Alquiler de cabaña sanitaria para personal operativo de Caminos y calles y mantenimiento de obra pública",
-      "Institución/Entidad": "MUNICIPALIDAD DE MORAVIA",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "19/10/2026 10:37",
-      "Cierre": "26/10/2026 09:05",
-      "Fuente/Enlace": "",
-      "Texto": "Alquiler de cabaña sanitaria para personal operativo de Caminos y calles y mantenimiento de obra pública",
-      "source_key": "SICOP|2026LD-000079-0003300001"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026LD-000414-0001300001",
       "Oportunidad": "Compra de Láminas de cielo suspendido para el edificio de la Torre Judicial",
       "Institución/Entidad": "CORTE SUPREMA DE JUSTICIA-PODER JUDICIAL",
@@ -9446,19 +10226,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026LD-000042-0001102502",
-      "Oportunidad": "COMPRA ESPECIFICA DE MOBILIARIO MÉDICO ÁREA DE SALUD DE LIBERIA",
-      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "19/10/2026 09:03",
-      "Cierre": "26/10/2026 08:01",
-      "Fuente/Enlace": "",
-      "Texto": "COMPRA ESPECIFICA DE MOBILIARIO MÉDICO ÁREA DE SALUD DE LIBERIA",
-      "source_key": "SICOP|2026LD-000042-0001102502"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026LD-000120-0023300001",
       "Oportunidad": "Actualización De Licencias De ArcGIS Y Alquiler De Equipo Para Inspecciones De Campo",
       "Institución/Entidad": "MUNICIPALIDAD DE SAN RAFAEL DE HEREDIA",
@@ -9508,19 +10275,6 @@
       "Fuente/Enlace": "",
       "Texto": "SE-Licitación Abreviada Servicio actualización sistema de dosificación PG Miravalles I-II-III DG-2201- 2026",
       "source_key": "SICOP|2026XE-000900-0000400001"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LD-000026-0029254321",
-      "Oportunidad": "Compra de Maquinaria y equipo para el Concejo Municipal de Cervantes",
-      "Institución/Entidad": "CONCEJO MUNICIPAL DE CERVANTES",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "19/10/2026 08:17",
-      "Cierre": "26/10/2026 09:01",
-      "Fuente/Enlace": "",
-      "Texto": "Compra de Maquinaria y equipo para el Concejo Municipal de Cervantes",
-      "source_key": "SICOP|2026LD-000026-0029254321"
     },
     {
       "Fuente": "SICOP",
@@ -9589,45 +10343,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026XE-000260-0000200001",
-      "Oportunidad": "Escasa cuantía línea de vida con protección arco eléctrico",
-      "Institución/Entidad": "COMPAÑÍA NACIONAL DE FUERZA Y LUZ SOCIEDAD ANÓNIMA",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "19/10/2026 07:48",
-      "Cierre": "26/10/2026 08:05",
-      "Fuente/Enlace": "",
-      "Texto": "Escasa cuantía línea de vida con protección arco eléctrico",
-      "source_key": "SICOP|2026XE-000260-0000200001"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LD-000083-0004200001",
-      "Oportunidad": "Compra de Repuestos y contratación de mano de obra para reparación de equipo amarillo JOHN DEERE Y BOMAG",
-      "Institución/Entidad": "MUNICIPALIDAD DE BUENOS AIRES",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "19/10/2026 07:46",
-      "Cierre": "26/10/2026 08:00",
-      "Fuente/Enlace": "",
-      "Texto": "Compra de Repuestos y contratación de mano de obra para reparación de equipo amarillo JOHN DEERE Y BOMAG",
-      "source_key": "SICOP|2026LD-000083-0004200001"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LD-000082-0004200001",
-      "Oportunidad": "Compra de materiales varios para la carroza y árbol de navidad",
-      "Institución/Entidad": "MUNICIPALIDAD DE BUENOS AIRES",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "19/10/2026 07:45",
-      "Cierre": "26/10/2026 08:00",
-      "Fuente/Enlace": "",
-      "Texto": "Compra de materiales varios para la carroza y árbol de navidad",
-      "source_key": "SICOP|2026LD-000082-0004200001"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026LY-000128-0001101142",
       "Oportunidad": "SOLUCIÓN ACUOSA DE ORTOFTALDEHIDO. CODIGO 1-90-02-0021",
       "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
@@ -9651,19 +10366,6 @@
       "Fuente/Enlace": "",
       "Texto": "COMPRA DE VEHÍCULO HÍBRIDO 4X4 / AWD",
       "source_key": "SICOP|2026LD-000008-0019600001"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LD-000093-0041342028",
-      "Oportunidad": "Contratación para la adquisición de dispositivos y software para registro de marca",
-      "Institución/Entidad": "EMPRESA DE SERVICIOS PÚBLICOS DE HEREDIA SOCIEDAD ANÓNIMA",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "17/10/2026 07:34",
-      "Cierre": "26/10/2026 07:01",
-      "Fuente/Enlace": "",
-      "Texto": "Contratación para la adquisición de dispositivos y software para registro de marca",
-      "source_key": "SICOP|2026LD-000093-0041342028"
     },
     {
       "Fuente": "SICOP",
@@ -9716,19 +10418,6 @@
       "Fuente/Enlace": "",
       "Texto": "S.C Contratación Directa Excepción Servicio Contratación Medio Comunicación Flix Cinevisión CR para Difusión Mensajes Gestión Institucional",
       "source_key": "SICOP|2026XE-000899-0000400001"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LD-000002-0017300012",
-      "Oportunidad": "Contratación de servicios profesionales para el procesamiento de información de Riesgos BCR Pensiones",
-      "Institución/Entidad": "BCR PENSIÓN OPERADORA DE PLANES DE PENSIONES COMPLEMENTARIAS SOCIEDAD ANÓNIMA",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "16/10/2026 16:17",
-      "Cierre": "26/10/2026 08:05",
-      "Fuente/Enlace": "",
-      "Texto": "Contratación de servicios profesionales para el procesamiento de información de Riesgos BCR Pensiones",
-      "source_key": "SICOP|2026LD-000002-0017300012"
     },
     {
       "Fuente": "SICOP",
@@ -9810,19 +10499,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026LD-000116-0002100001",
-      "Oportunidad": "Servicio de Organización de Eventos para el Congreso BIOINSUMOS - CNEAO.",
-      "Institución/Entidad": "INSTITUTO NACIONAL DE APRENDIZAJE",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "16/10/2026 15:10",
-      "Cierre": "26/10/2026 09:10",
-      "Fuente/Enlace": "",
-      "Texto": "Servicio de Organización de Eventos para el Congreso BIOINSUMOS - CNEAO.",
-      "source_key": "SICOP|2026LD-000116-0002100001"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026LE-000094-0001102102",
       "Oportunidad": "Regorafenib de 40 mg",
       "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
@@ -9833,19 +10509,6 @@
       "Fuente/Enlace": "",
       "Texto": "Regorafenib de 40 mg",
       "source_key": "SICOP|2026LE-000094-0001102102"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LD-000041-0008700001",
-      "Oportunidad": "Servicio de mantenimiento preventivo y correctivo de archivos móviles",
-      "Institución/Entidad": "JUNTA ADMINISTRATIVA DE LA DIRECCIÓN GENERAL DE MIGRACIÓN Y EXTRANJERÍA",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "16/10/2026 14:32",
-      "Cierre": "26/10/2026 09:00",
-      "Fuente/Enlace": "",
-      "Texto": "Servicio de mantenimiento preventivo y correctivo de archivos móviles",
-      "source_key": "SICOP|2026LD-000041-0008700001"
     },
     {
       "Fuente": "SICOP",
@@ -10096,19 +10759,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026LD-000146-0021600001",
-      "Oportunidad": "JACKET impermeables  (EN DIFERENTES TALLAS) PARA LOS FUNCIONARIOS DEL PROCESO DE LA POLICÍA MUNICIPAL, DE LAS CUALES 18 DEBEN SER PARA HOMBRE Y 7 DEBEN SER PARA MUJER",
-      "Institución/Entidad": "MUNICIPALIDAD DE DESAMPARADOS",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "16/10/2026 08:45",
-      "Cierre": "26/10/2026 08:30",
-      "Fuente/Enlace": "",
-      "Texto": "JACKET impermeables  (EN DIFERENTES TALLAS) PARA LOS FUNCIONARIOS DEL PROCESO DE LA POLICÍA MUNICIPAL, DE LAS CUALES 18 DEBEN SER PARA HOMBRE Y 7 DEBEN SER PARA MUJER",
-      "source_key": "SICOP|2026LD-000146-0021600001"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026LD-000032-0031200001",
       "Oportunidad": "Adquisición de planes de telefonía",
       "Institución/Entidad": "MUNICIPALIDAD DE MONTES DE ORO",
@@ -10193,7 +10843,7 @@
       "País": "Costa Rica",
       "Monto": "No informado",
       "Fecha de publicación": "15/10/2026 15:55",
-      "Cierre": "26/10/2026 14:00",
+      "Cierre": "29/10/2026 10:00",
       "Fuente/Enlace": "",
       "Texto": "Cascos, chalecos, mesa plegable, toldo.",
       "source_key": "SICOP|2026LD-000033-0007600001"
@@ -10219,7 +10869,7 @@
       "País": "Costa Rica",
       "Monto": "No informado",
       "Fecha de publicación": "15/10/2026 15:45",
-      "Cierre": "26/10/2026 14:00",
+      "Cierre": "28/10/2026 14:00",
       "Fuente/Enlace": "",
       "Texto": "Binoculares, radios, dispositivo de almacenamiento, alfombra aterrizaje drone, conos de seguridad",
       "source_key": "SICOP|2026LD-000032-0007600001"
@@ -10314,19 +10964,6 @@
       "Fuente/Enlace": "",
       "Texto": "Iluminación Cancha de Deportes de Grano de Oro",
       "source_key": "SICOP|2026LD-000128-0017500001"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LD-000015-0015000001",
-      "Oportunidad": "“INSUMOS PARA CAFÉ DEL PROGRAMA DE ADULTOS MAYORES”",
-      "Institución/Entidad": "COMITÉ CANTONAL DE DEPORTES Y RECREACIÓN DE ESCAZÚ",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "15/10/2026 12:16",
-      "Cierre": "26/10/2026 08:00",
-      "Fuente/Enlace": "",
-      "Texto": "“INSUMOS PARA CAFÉ DEL PROGRAMA DE ADULTOS MAYORES”",
-      "source_key": "SICOP|2026LD-000015-0015000001"
     },
     {
       "Fuente": "SICOP",
@@ -10759,19 +11396,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026LD-000026-0001102602",
-      "Oportunidad": " Insumos para el Servicio de Emergencias",
-      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "14/10/2026 10:45",
-      "Cierre": "26/10/2026 09:00",
-      "Fuente/Enlace": "",
-      "Texto": " Insumos para el Servicio de Emergencias",
-      "source_key": "SICOP|2026LD-000026-0001102602"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026XE-000868-0000400001",
       "Oportunidad": "S.E. - LICITACION ABREVIADA ADQUISICION DE CAJAS DE REGISTRO PARA LA RED SUBTERRANEA / DDYC",
       "Institución/Entidad": "INSTITUTO COSTARRICENSE DE ELECTRICIDAD",
@@ -11149,19 +11773,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026LD-000190-0001102102",
-      "Oportunidad": "SONDA NELATON URETRAL CALIBRE 12 FR",
-      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "13/10/2026 14:15",
-      "Cierre": "26/10/2026 08:00",
-      "Fuente/Enlace": "",
-      "Texto": "SONDA NELATON URETRAL CALIBRE 12 FR",
-      "source_key": "SICOP|2026LD-000190-0001102102"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026LD-000399-0001300001",
       "Oportunidad": "Reparación de vehículos unidad PXT064, BTQ198, BPZ682, CCB581, BTL190, BQX110, BYZ706, CL275110 asignados a Transportes Administrativos y Ministerio Público",
       "Institución/Entidad": "CORTE SUPREMA DE JUSTICIA-PODER JUDICIAL",
@@ -11480,7 +12091,7 @@
       "País": "Costa Rica",
       "Monto": "No informado",
       "Fecha de publicación": "13/10/2026 09:46",
-      "Cierre": "27/10/2026 09:01",
+      "Cierre": "13/11/2026 09:01",
       "Fuente/Enlace": "",
       "Texto": "Adquisición de: ITRACONAZOL 100 MG CAPSULAS, Ley 6914",
       "source_key": "SICOP|2026XE-000166-0001101142"
@@ -11500,16 +12111,16 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026LD-000020-0021000001",
-      "Oportunidad": "COMPRA DE RADIOS DE COMUNICACIÓN PARA CUADRILLA",
-      "Institución/Entidad": "MUNICIPALIDAD DE SANTA CRUZ",
+      "Identificador": "2026LE-000013-0002400001",
+      "Oportunidad": "Alquiler de cámaras corporales (body cam) y almacenamiento",
+      "Institución/Entidad": "MUNICIPALIDAD DEL CANTÓN DE SANTA ANA",
       "País": "Costa Rica",
       "Monto": "No informado",
-      "Fecha de publicación": "13/10/2026 09:33",
-      "Cierre": "26/10/2026 09:00",
+      "Fecha de publicación": "13/10/2026 08:29",
+      "Cierre": "02/11/2026 08:00",
       "Fuente/Enlace": "",
-      "Texto": "COMPRA DE RADIOS DE COMUNICACIÓN PARA CUADRILLA",
-      "source_key": "SICOP|2026LD-000020-0021000001"
+      "Texto": "Alquiler de cámaras corporales (body cam) y almacenamiento",
+      "source_key": "SICOP|2026LE-000013-0002400001"
     },
     {
       "Fuente": "SICOP",
@@ -11604,19 +12215,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026RE-000001-0018000001",
-      "Oportunidad": "Remate de Vehículo Institucional CL253257",
-      "Institución/Entidad": "OPERADORA DE PLANES DE PENSIONES COMPLEMENTARIAS DEL BANCO POPULAR Y DE DESARROLLO COMUNAL SOCIEDAD ANÓNIMA",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "12/10/2026 14:48",
-      "Cierre": "26/10/2026 08:10",
-      "Fuente/Enlace": "",
-      "Texto": "Remate de Vehículo Institucional CL253257",
-      "source_key": "SICOP|2026RE-000001-0018000001"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026LY-000021-0001102103",
       "Oportunidad": "compra consolidadasuturas para el HNN",
       "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
@@ -11627,19 +12225,6 @@
       "Fuente/Enlace": "",
       "Texto": "compra consolidadasuturas para el HNN",
       "source_key": "SICOP|2026LY-000021-0001102103"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LE-000028-0001102502",
-      "Oportunidad": "COMPRA DE INSUMOS VARIOS DE PEDIATRÍA Y NEONATOS",
-      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "12/10/2026 14:31",
-      "Cierre": "26/10/2026 08:00",
-      "Fuente/Enlace": "",
-      "Texto": "COMPRA DE INSUMOS VARIOS DE PEDIATRÍA Y NEONATOS",
-      "source_key": "SICOP|2026LE-000028-0001102502"
     },
     {
       "Fuente": "SICOP",
@@ -11740,7 +12325,7 @@
       "País": "Costa Rica",
       "Monto": "No informado",
       "Fecha de publicación": "12/10/2026 11:33",
-      "Cierre": "26/10/2026 10:00",
+      "Cierre": "02/11/2026 10:00",
       "Fuente/Enlace": "",
       "Texto": "Servicios GIR ruta orgánicos plan piloto, composteras, charlas etc.",
       "source_key": "SICOP|2026LE-000009-0003400001"
@@ -11757,19 +12342,6 @@
       "Fuente/Enlace": "",
       "Texto": "Servicios profesionales para la gestión y apoyo de actividades sociales en diversas áreas, según demanda",
       "source_key": "SICOP|2026LE-000008-0003400001"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LD-000001-0014300001",
-      "Oportunidad": "Servicios de producción de eventos culturales para la casa de la cultura de Puntarenas, 2026",
-      "Institución/Entidad": "CASA CULTURAL DE PUNTARENAS",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "12/10/2026 10:38",
-      "Cierre": "26/10/2026 09:00",
-      "Fuente/Enlace": "",
-      "Texto": "Servicios de producción de eventos culturales para la casa de la cultura de Puntarenas, 2026",
-      "source_key": "SICOP|2026LD-000001-0014300001"
     },
     {
       "Fuente": "SICOP",
@@ -11809,19 +12381,6 @@
       "Fuente/Enlace": "",
       "Texto": "SUMINISTRO DE EQUIPO DE CÓMPUTO PARA TELETRABAJO Y ATENCIÓN DE OFICINAS CENTRALES (SEGÚN DEMANDA)",
       "source_key": "SICOP|2026LY-000003-0015600001"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LE-000005-0090100001",
-      "Oportunidad": "Servicio de lavado Vehicular",
-      "Institución/Entidad": "SERVICIO FITOSANITARIO DEL ESTADO",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "12/10/2026 07:40",
-      "Cierre": "26/10/2026 08:01",
-      "Fuente/Enlace": "",
-      "Texto": "Servicio de lavado Vehicular",
-      "source_key": "SICOP|2026LE-000005-0090100001"
     },
     {
       "Fuente": "SICOP",
@@ -12449,19 +13008,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026LE-000090-0001102102",
-      "Oportunidad": "MALLAS Y SUTURAS CIRUGIA GENERAL",
-      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "07/10/2026 08:51",
-      "Cierre": "26/10/2026 08:30",
-      "Fuente/Enlace": "",
-      "Texto": "MALLAS Y SUTURAS CIRUGIA GENERAL",
-      "source_key": "SICOP|2026LE-000090-0001102102"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026LY-000017-0021400001",
       "Oportunidad": "21400001 SUSPENSIÓN DE SER. POR MOROSIDAD, ELIMINACIÓN DE FRAUDES Y RECONEXIÓN DE SERVICIOS",
       "Institución/Entidad": "INSTITUTO COSTARRICENSE DE ACUEDUCTOS Y ALCANTARILLADOS",
@@ -12550,19 +13096,6 @@
       "Fuente/Enlace": "",
       "Texto": "COMPRA DE ACEITE PARA MOTORES FUERA DE BORDA",
       "source_key": "SICOP|2026LD-000034-0007100001"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LD-000053-0009600001",
-      "Oportunidad": "Confección mesas de trabajo Area Encuadernación",
-      "Institución/Entidad": "JUNTA ADMINISTRATIVA DEL ARCHIVO NACIONAL",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "06/10/2026 15:08",
-      "Cierre": "26/10/2026 08:00",
-      "Fuente/Enlace": "",
-      "Texto": "Confección mesas de trabajo Area Encuadernación",
-      "source_key": "SICOP|2026LD-000053-0009600001"
     },
     {
       "Fuente": "SICOP",
@@ -12696,19 +13229,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026LE-000019-0001102701",
-      "Oportunidad": "Mantenimiento preventivo de equipos de Lavanderia",
-      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "05/10/2026 13:58",
-      "Cierre": "26/10/2026 08:01",
-      "Fuente/Enlace": "",
-      "Texto": "Mantenimiento preventivo de equipos de Lavanderia",
-      "source_key": "SICOP|2026LE-000019-0001102701"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026LY-000033-0000100001",
       "Oportunidad": "CONTRATACIÓN DE UN PROVEEDOR PARA LA PRESTACIÓN DE SERVICIOS DE TRASLADO DE VALIJAS PARA LAS OFICINAS DEL BANCO NACIONAL DE COSTA RICA ",
       "Institución/Entidad": "BANCO NACIONAL DE COSTA RICA",
@@ -12748,19 +13268,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026LY-000123-0001101142",
-      "Oportunidad": "TUBOS AL VACÍO 2-88-90-1556",
-      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "05/10/2026 08:05",
-      "Cierre": "26/10/2026 09:00",
-      "Fuente/Enlace": "",
-      "Texto": "TUBOS AL VACÍO 2-88-90-1556",
-      "source_key": "SICOP|2026LY-000123-0001101142"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026XE-000251-0000200001",
       "Oportunidad": "Concurso de adquisición - COMPRA DE SWITCHES DE COMUNICACIÓN",
       "Institución/Entidad": "COMPAÑÍA NACIONAL DE FUERZA Y LUZ SOCIEDAD ANÓNIMA",
@@ -12771,19 +13278,6 @@
       "Fuente/Enlace": "",
       "Texto": "Concurso de adquisición - COMPRA DE SWITCHES DE COMUNICACIÓN",
       "source_key": "SICOP|2026XE-000251-0000200001"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LE-000007-0001102598",
-      "Oportunidad": "EQUIPO MEDICO VARIO 2026",
-      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "02/10/2026 16:30",
-      "Cierre": "26/10/2026 09:01",
-      "Fuente/Enlace": "",
-      "Texto": "EQUIPO MEDICO VARIO 2026",
-      "source_key": "SICOP|2026LE-000007-0001102598"
     },
     {
       "Fuente": "SICOP",
@@ -13138,32 +13632,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026LY-000009-0015500001",
-      "Oportunidad": "Contratación Nacional por demanda de equipo Gastronómico, Inder. FPSA ",
-      "Institución/Entidad": "INSTITUTO DE DESARROLLO RURAL",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "28/09/2026 11:34",
-      "Cierre": "26/10/2026 09:00",
-      "Fuente/Enlace": "",
-      "Texto": "Contratación Nacional por demanda de equipo Gastronómico, Inder. FPSA ",
-      "source_key": "SICOP|2026LY-000009-0015500001"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LY-000005-0023100001",
-      "Oportunidad": "LICITACIÓN MAYOR CON PRECALIFICACIÓN ABIERTA OBRAS MENORES DE MANTENIMIENTO EN INMUEBLES MUNICIPALES CON RECURSOS PROPIOS",
-      "Institución/Entidad": "MUNICIPALIDAD DE CURRIDABAT",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "28/09/2026 10:33",
-      "Cierre": "26/10/2026 08:01",
-      "Fuente/Enlace": "",
-      "Texto": "LICITACIÓN MAYOR CON PRECALIFICACIÓN ABIERTA OBRAS MENORES DE MANTENIMIENTO EN INMUEBLES MUNICIPALES CON RECURSOS PROPIOS",
-      "source_key": "SICOP|2026LY-000005-0023100001"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026LD-000087-0004100001",
       "Oportunidad": "Compra accesorios y válvulas para el Acueducto Municipal por demanda",
       "Institución/Entidad": "MUNICIPALIDAD DE SANTO DOMINGO DE HEREDIA",
@@ -13502,19 +13970,6 @@
     },
     {
       "Fuente": "SICOP",
-      "Identificador": "2026LY-000117-0001101142",
-      "Oportunidad": "Servicio de lavado a Presión de agua de paredes y otras superficies para el Area Lavanderia Central y Lavanderia Zeledon Venegas",
-      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "21/09/2026 12:31",
-      "Cierre": "26/10/2026 09:00",
-      "Fuente/Enlace": "",
-      "Texto": "Servicio de lavado a Presión de agua de paredes y otras superficies para el Area Lavanderia Central y Lavanderia Zeledon Venegas",
-      "source_key": "SICOP|2026LY-000117-0001101142"
-    },
-    {
-      "Fuente": "SICOP",
       "Identificador": "2026XE-000759-0000400001",
       "Oportunidad": "S.E.-Licitación Abreviada/ Adquisicón de Mesas de Oxicorte, Soldadoras Combustión P.E GE-076",
       "Institución/Entidad": "INSTITUTO COSTARRICENSE DE ELECTRICIDAD",
@@ -13694,19 +14149,6 @@
       "Fuente/Enlace": "",
       "Texto": "Compra de Fórmulas Nutricionales según demanda",
       "source_key": "SICOP|2026LY-000032-0001000001"
-    },
-    {
-      "Fuente": "SICOP",
-      "Identificador": "2026LY-000041-0001102101",
-      "Oportunidad": "FUNDAS DE PROTECCIÓN ESTÉRILES.",
-      "Institución/Entidad": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
-      "País": "Costa Rica",
-      "Monto": "No informado",
-      "Fecha de publicación": "16/09/2026 11:51",
-      "Cierre": "26/10/2026 09:00",
-      "Fuente/Enlace": "",
-      "Texto": "FUNDAS DE PROTECCIÓN ESTÉRILES.",
-      "source_key": "SICOP|2026LY-000041-0001102101"
     },
     {
       "Fuente": "SICOP",
@@ -14643,159 +15085,6 @@
       "Fuente/Enlace": "",
       "Texto": "COMPRA PARA ADQUIRIR SISTEMA FIJACIÓN EXTERNA",
       "source_key": "SICOP|2026LY-000063-0001101142"
-    },
-    {
-      "Fuente": "Banco Mundial",
-      "Identificador": "OP00472802",
-      "Oportunidad": "Consultancy for updating the ESIA",
-      "Institución/Entidad": "Chittagong Port Authority (CPA)",
-      "País": "Bangladesh",
-      "Monto": "No informado",
-      "Fecha de publicación": "03-Oct-2026",
-      "Cierre": "2026-10-25T18:00:00Z",
-      "Fuente/Enlace": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472802",
-      "Texto": "<p><strong>Consulting Services for Updating and Finalizing ESIA</strong></p><p><strong>Ref:&nbsp;</strong>18.13.0000.000.000.07.0020.25</p><p>Procurement Method:&nbsp;Quality (80%) and Cost (20%) Based Selection Method</p><table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\"><tbody><tr><td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:65px; vertical-align:top; width:426px\"><p>&nbsp;</p><p>The indicative scope of work includes, but is not limited to, the following:</p><ol><li><strong>Review existing ESIA documents, technical studies, and design updates related to marine works of the Bay Terminal Project.</strong></li><li><strong>Update environmental and social baseline conditions, including marine water quality, sediment, ecology, and socio-economic aspects.</strong></li><li><strong>Assess potential environmental and social impacts of dredging, reclamation, breakwater, and associated marine construction activities.</strong></li><li><strong>Evaluate compliance with national regulations and World Bank Environmental and Social Framework (ESF), including gap analysis.</strong></li><li><strong>Conduct stakeholder identification, consultation and disclosure in accordance with regulatory and donor requirements.</strong></li><li><strong>Assess impacts on fisheries, livelihoods, occupational health and safety, and vulnerable groups and prepare subsequent Resettlement Action Plan &amp; Livelihood Restoration plan.</strong></li><li><strong>Analyze climate change risks, disaster resilience, and cumulative environmental impacts.</strong></li><li><strong>Update Environmental and Social Management Plans (ESMP), including monitoring, mitigation, and emergency response measures.</strong></li></ol><p><strong>All studies and designs shall be in accordance with the highest standards of international engineering profession.</strong></p></td></tr><tr><td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; vertical-align:top; width:426px\"><p>Eligible consulting firms are to indicate their interest in providing the above-mentioned services. Interested consultants must provide information indicating that they are qualified to perform the services (such as: brochures, description of similar assignments, experience in similar conditions, availability of appropriate skills among staff etc.).</p><ul><li>Proven experience in preparing or updating ESIAs and ESMPs for large-scale infrastructure projects, preferably marine, port, dredging, or coastal projects</li><li>Demonstrated experience working on World Bank<strong> </strong>financed or other multilateral development bank financed projects, with strong familiarity with the World Bank ESF</li><li>Adequate organizational, technical, and financial capacity to carry out the assignment successfully</li></ul><p>Submitted EOI&rsquo;s would be evaluated on the basis of among others the following:</p><p>Registration of the firm;</p><p>Annual turn over of the firm;</p><p>Availability of resources including support services;</p><p>Availability of professionals;</p><p>Experience of firm in similar works;</p><p>Experience of firm in World bank financed project;</p><p>Experience of firm in other works. GoB Rules etc.</p><p>The above-mentioned criteria are an outline of overall criteria for the prospective Consultancy Firm. However, the detailed Terms of Reference (TOR), qualification criteria, resource requirements, financial strength and all other related terms as required for rendering the consultancy services will be clearly elaborated in the Request For Proposal (RFP). This RFP will be issued only to the short-listed consultancy firms.</p></td></tr></tbody></table>",
-      "project_id": "P176812",
-      "reference_no": "BTMIDP/S-05",
-      "language": "English",
-      "procurement_method": null,
-      "source_key": "Banco Mundial|OP00472802"
-    },
-    {
-      "Fuente": "Banco Mundial",
-      "Identificador": "OP00468800",
-      "Oportunidad": "TLTB Capacity Building Program",
-      "Institución/Entidad": "Ministry of Tourism and Civil Aviation",
-      "País": "Fiji",
-      "Monto": "No informado",
-      "Fecha de publicación": "07-Oct-2026",
-      "Cierre": "2026-10-25T23:45:00Z",
-      "Fuente/Enlace": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00468800",
-      "Texto": "<p>&nbsp;</p><p><strong>REQUEST FOR EXPRESSIONS OF INTEREST</strong></p><p><strong>(CONSULTING SERVICES &ndash; FIRMS SELECTION)</strong></p><table cellspacing=\"0\" style=\"border-collapse:collapse; width:99.72%\"><tbody><tr><td style=\"background-color:#d9d9d9; border-bottom:1px solid white; border-left:1px solid white; border-right:1px solid white; border-top:1px solid #7f7f7f; height:.12px; vertical-align:top; width:30%\"><p><strong>Name of Project</strong></p></td><td style=\"border-bottom:1px solid white; border-left:none; border-right:1px solid white; border-top:1px solid #7f7f7f; height:.12px; vertical-align:top; width:69%\"><p>Fiji Tourism Development Program in Vanua Levu or &lsquo;Na Vualiku&rsquo;</p></td></tr><tr><td style=\"background-color:#d9d9d9; border-bottom:1px solid white; border-left:1px solid white; border-right:1px solid white; border-top:none; height:.12px; vertical-align:top; width:30%\"><p><strong>Loan Number</strong></p></td><td style=\"border-bottom:1px solid white; border-left:none; border-right:1px solid white; border-top:none; height:.12px; vertical-align:top; width:69%\"><p>IDA-73690</p></td></tr><tr><td style=\"background-color:#d9d9d9; border-bottom:1px solid white; border-left:1px solid white; border-right:1px solid white; border-top:none; height:20px; vertical-align:top; width:30%\"><p><strong>Assignment Title</strong></p></td><td style=\"border-bottom:1px solid white; border-left:none; border-right:1px solid white; border-top:none; height:20px; vertical-align:top; width:69%\"><p>Consulting Services for Institutional Capability Development and Operational Strengthening for iTaukei Land Trust Board</p></td></tr><tr><td style=\"background-color:#d9d9d9; border-bottom:1px solid white; border-left:1px solid white; border-right:1px solid white; border-top:none; height:.12px; vertical-align:top; width:30%\"><p><strong>Reference Number</strong></p></td><td style=\"border-bottom:1px solid white; border-left:none; border-right:1px solid white; border-top:none; height:.12px; vertical-align:top; width:69%\"><p>FJ-MTCA-545892-CS-QCBS</p></td></tr><tr><td style=\"background-color:#d9d9d9; border-bottom:1px solid #7f7f7f; border-left:1px solid white; border-right:1px solid white; border-top:none; height:.12px; vertical-align:top; width:30%\"><p><strong>Country of Delivery </strong></p></td><td style=\"border-bottom:1px solid #7f7f7f; border-left:none; border-right:1px solid white; border-top:none; height:.12px; vertical-align:top; width:69%\"><p>Republic of Fiji</p></td></tr></tbody></table><p>&nbsp;</p><p>The Government of Fiji through the Ministry of Finance, Strategic Planning, National Development and Statistics has received financing from the World Bank (&ldquo;WB&rdquo;) for the Fiji Tourism Development Program in Vanua Levu or &lsquo;Na Vualiku&rsquo; and intends to apply part of the proceeds for consulting services.</p><p>The consulting services (&ldquo;the Services&rdquo;) will support the Ministry of Tourism and Civil Aviation (&ldquo;MTCA&rdquo;) as the lead Implementing Agency, in technical partnership with the iTaukei Land Trust Board (&ldquo;TLTB&rdquo;) as the beneficiary institution, to undertake comprehensive institutional capability development and operational strengthening.</p><p>The primary purpose of the assignment is to strengthen the institutional capacity, operational readiness, and technical effectiveness of TLTB in those areas most relevant to tourism-related iTaukei land development in the Northern Division so that TLTB is equipped to manage the increased volume and complexity of work the project will generate, and to do so in a way that is efficient, transparent, and genuinely beneficial to iTaukei landowners.</p><p>The Services are expected to commence in February 2027 for an assignment duration of <strong>Sixteen (16) Months</strong>. The lump-sum contract will be signed with payment against acceptance of clearly defined milestones/ deliverables.</p><p>The detailed Terms of Reference (&ldquo;TOR&rdquo;) for the assignment is available by contacting Mr. Akshay Chand on Akshay.chand01@mtca.gov.fj or clicking the below link.</p><p>https://docs.google.com/document/d/1vyoixSfW-Yi13ddZIJGaJ0m3J8NGoNFM/edit?usp=sharing&amp;ouid=116864177158872071295&amp;rtpof=true&amp;sd=true&nbsp;</p><p>The MTCA now invites eligible consulting firms (&ldquo;Consultants&rdquo;) to indicate their interest in providing the Services. Interested Consultants should provide information demonstrating that they have the required qualifications and relevant experience to perform the Services.</p><p>The attention of interested Consultants is drawn to paragraph 3.14, 3.16 and 3.17 of the World Bank&rsquo;s Procurement Regulations for IPF Borrowers dated September 2025 (&ldquo;the Regulations&rdquo;), setting forth the World Bank&rsquo;s policy on conflict of interest.</p><p>The shortlisting criteria are: &nbsp;&nbsp;</p><p><strong>1. Technical experience in institutional/organizational development, functional reviews, capability development and operational strengthening</strong> - The firm shall demonstrate at least eight years of relevant corporate experience in carrying out institutional/organizational assessments or functional reviews, capacity development, institutional strengthening or closely related advisory work. The firm shall also demonstrate successful completion of at least three assignments of comparable complexity during the last ten years, incorporating a combination of capacity development, institutional diagnostic work, and preparation of practical operational tools.</p><p><strong>2. Experience in land administration and customary land governance </strong>- Demonstrated experience in land administration support, land agencies, lease systems, land records, cadastral or spatial data functions, customary or communal land institutions, or similar land governance environments.</p><p><strong>3. GIS, land information systems, and systems planning experience</strong> - Relevant advisory experience in reviewing spatial data environments, preparing systems roadmaps, and developing technical requirements for future systems enhancement.</p><p><strong>4. Stakeholder engagement and context-sensitive delivery - </strong>Evidence of effective work in settings requiring structured consultation with Government, statutory bodies, community stakeholders, customary institutions, women, vulnerable groups, and other actors, preferably in Fiji, the Pacific, or similar small-island contexts.</p><p><strong>5. Local Delivery - </strong>Firms must demonstrate a credible approach to local delivery, whether through a permanent presence in Fiji, locally-based experts, or formal arrangements with local partners that ensure sustained field engagement in Suva and Vanua Levu throughout the assignment.</p><p><strong>6. Project management, quality assurance, and multidisciplinary delivery capability - </strong>Firms shall demonstrate internal quality assurance arrangements adequate to support multidisciplinary delivery, timely reporting, and consistent technical standards across all outputs.</p><p><strong>Key Experts will not be evaluated at the shortlisting stage.</strong></p><p>Consultants may associate with other firms to enhance their qualifications but should indicate clearly whether the association is in the form of a joint venture and/or a sub-consultancy. In the case of a joint venture, all the partners in the joint venture shall be jointly and severally liable for the entire contract, if selected.</p><p>A Consultant will be selected in accordance with the Quality Cost Based Selection (&ldquo;QCBS&rdquo;) method set out in the Regulations and based on the criteria set out in the TOR. Further information can be obtained at the address below.&nbsp; This TOR is subject to further discussion and refinement in consultation with stakeholders to ensure comprehensive coverage and alignment with project objectives.</p><p>Expressions of interest must be uploaded using the below link before by<strong> 25th October 2026</strong>:</p><p>https://forms.gle/xmHMigphP3tifAsB6</p><p>The Consultants are advised to consult the following Guidance Note including EOI template available here:</p><p>&nbsp;</p><p>https://drive.google.com/drive/folders/1pYH1rOHTestn9nKWUpx-yXlcgNE1j1N8?usp=sharing</p><p>&nbsp;</p><p><strong>Ministry of Tourism and Civil Aviation </strong></p><p>Attn:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Akshay Chand (Mr)</p><p>Procurement Officer</p><p>Level 4, Civic Tower Victoria Parade, Suva</p><p>Tel:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +679 3315577 or +679 9906608</p><p>E-mail:&nbsp; Akshay.chand01@mtca.gov.fj copy to fj.procurement@outlook.com</p>",
-      "project_id": "P178694",
-      "reference_no": "FJ-MTCA-545892-CS-QCBS",
-      "language": "English",
-      "procurement_method": null,
-      "source_key": "Banco Mundial|OP00468800"
-    },
-    {
-      "Fuente": "Banco Mundial",
-      "Identificador": "OP00473636",
-      "Oportunidad": "Consultancy Services for Design and Study of Bridges and Rural Gravel Roads in Madawalabu, Sawena, Elwaye, Dawe Sarar and Mieso Woredas.",
-      "Institución/Entidad": "Oromia Regional Project Coordination Unit (RPCU)",
-      "País": "Ethiopia",
-      "Monto": "No informado",
-      "Fecha de publicación": "16-Oct-2026",
-      "Cierre": "2026-10-26T04:00:00Z",
-      "Fuente/Enlace": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00473636",
-      "Texto": "<p><strong>REQUEST FOR EXPRESSIONS OF INTEREST</strong></p><p><strong>CONSULTING SERVICES &ndash; FIRMS SELECTION</strong></p><p><strong><em>&nbsp;Country: &nbsp;Ethiopia </em></strong></p><p><strong><em>&nbsp;Project: Lowlands Livelihood Resilience Project Phase II </em></strong></p><p>Loan No./Credit No./ Grant No.: IDA-75190</p><p><strong>Assignment Title and Procurement Reference No : Small and Medium span Bridges and &nbsp;&nbsp;&nbsp;Roads (ET-ORO-RPCU-570403-CS-QCBS)</strong></p><ol><li>The Federal Democratic Republic of Ethiopia <em>has received </em>financing from the World Bank toward the cost of the Lowlands Livelihood Resilience Project Phase II. The Oromia Irrigation and Pastoralist development Bureau /Oromia Lowlands Livelihood Resilience Project intends to apply part of the proceeds for consulting services.</li><li>The consulting services (&ldquo;the Services&rdquo;) include &nbsp;<strong>ET-ORO-RPCU-570403-CS-QCBS </strong>Consultancy Services for Design and Study of Bridges and Rural Gravel Roads in Madawalabu, Sawena, Elwaye, Dawe Sarar and Mieso Woredas, Experience<strong> </strong><strong>General Consultancy experience</strong>: the firm shall have a minimum of&nbsp; 7 years&#39; experience in providing professional consulting services in engineering, infrastructure planning, feasibility studies, design or related fields. &nbsp;<strong>Specific Experience</strong>: The firm has successfully completed at least 4 similar assignments during the last&nbsp; 5 years, including detailed engineering design or combined feasibility study and services. At least 2 of the assignments shall be comparable in nature, size, complexity, and technical requirements to the proposal assignment, 3 Months from the date of contract signing &nbsp;<em>Expected start date of assignment </em>15 March 2027 The detailed Terms of Reference (TOR) for the assignment <em>can be found at the following website: https://www.oipdb.gov.et/ or can be obtained at the address given below.</em> &nbsp;Oromia Regional Government offices, Sarbet, Oromia Irrigation and Pastoralist Development Bureau, Oromia Lowlands Livelihood Resilience Project Phase II (LLRP) office, 8th floor, office number LLRP II</li><li>The Oromia Irrigation and Pastoralist Development Bureau / Oromia Lowlands Livelihood Resilience Project Phase II now invites eligible consulting firms (&ldquo;Consultants&rdquo;) to indicate their interest in providing the Services. Interested Consultants should provide information demonstrating that they have the required qualifications and relevant experience to perform the Service.</li><li>The shortlisting criteria are: Core business and years in business, qualification in the field of the Assignment, Technical and managerial organization of the firm. Interested firms should give information indicating that they are qualified to perform the services (brochures, description of similar assignments, experience in similar conditions, availability of appropriate skills among staff, etc.)</li><li>The attention of interested consultants is drawn to paragraph 1.9 of the World Bank&#39;s Guidelines: Selection and Employment of Consultants under IBRD Loans and IDA Credits &amp; Grants by World Bank Borrowers (Procurement Regulations),first published in July 2016, and latest revised in September 2025 and subsequent revisions (&quot;Consultant Guidelines&quot;), setting forth the World Bank&#39;s policy on conflict of interest.</li><li>Consultants may associate with other firms in the form of a joint venture or a sub-consultancy to enhance their qualifications.</li><li>The consultant will be selected in accordance with the Quality and Cost-Based Selection (QCBS) method set out in the Consultant Guidelines.</li><li>Further information can be obtained at the address below during office hours, 8:30 am to 5:30 pm</li><li>The Terms of Reference (TOR) can be accessed using the following link:&nbsp;https://www.oipdb.gov.et/&nbsp;&nbsp;</li><li>Expressions of interest must be delivered in written form to the address below in person on 26&nbsp;October 2026 before or at 4:00 pm to the Oromia Regional Government offices, Sarbet, Oromia Irrigation and Pastoralist Development Bureau, Oromia Lowlands Livelihood Resilience Project Phase II (LLRP) office, 8th floor, office number LLRP II&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Attn: Mr. Gossa Guta, Regional Project Procurement Officer:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; gossakiya@gmail.com, +251911939228; Addis Ababa, Ethiopia</li></ol>",
-      "project_id": "P180076",
-      "reference_no": "ET-ORO-RPCU-570403-CS-QCBS",
-      "language": "English",
-      "procurement_method": null,
-      "source_key": "Banco Mundial|OP00473636"
-    },
-    {
-      "Fuente": "Banco Mundial",
-      "Identificador": "OP00448571",
-      "Oportunidad": "Signalling & Telecommunication Engineering Expert",
-      "Institución/Entidad": "Kenya Railways Corporation/Supply Chain Management",
-      "País": "Kenya",
-      "Monto": "No informado",
-      "Fecha de publicación": "06-Oct-2026",
-      "Cierre": "2026-10-26T11:00:00Z",
-      "Fuente/Enlace": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00448571",
-      "Texto": "<p><strong>KENYA RAILWAYS</strong></p><p><strong>REQUEST FOR EXPRESSION OF INTEREST (REOI)</strong></p><p><strong>(CONSULTING SERVICES-INDIVIDUAL CONSULTANT SELECTION)</strong></p><table cellspacing=\"0\" style=\"border-collapse:collapse; width:101.6%\"><tbody><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:5px; vertical-align:top; width:22%\"><p><strong>Country</strong></p></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:5px; vertical-align:top; width:77%\"><p>REPUBLIC OF KENYA</p></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:3px; vertical-align:top; width:22%\"><p><strong>Name of project</strong></p></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:3px; vertical-align:top; width:77%\"><p>KENYA URBAN MOBILITY IMPROVEMENT PROJECT (KUMIP)</p></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:6px; vertical-align:top; width:22%\"><p><strong>Credit No</strong></p></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:6px; vertical-align:top; width:77%\"><p>V4940</p></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:22%\"><p><strong>Assignment Title</strong></p></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:77%\"><p>SIGNALING AND TELECOMMUNICATION ENGINEERING EXPERT</p></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:3px; vertical-align:top; width:22%\"><p><strong>Reference</strong></p></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:3px; vertical-align:top; width:77%\"><p>KE-KRC-548691-CS-INDV</p></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:3px; vertical-align:top; width:22%\"><p><strong>Tender No.</strong></p></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:3px; vertical-align:top; width:77%\"><p>KR/SCM/WB/004/2025-2026 (Re-tendered)</p></td></tr></tbody></table><p>1. The Government of Kenya (GOK) has<em>&nbsp;</em>applied for financing from the World Bank towards the cost of the Kenya Urban Mobility Improvement Project (KUMIP), and intends to apply part of the proceeds for consulting services.</p><p>2. The consulting services (&ldquo;the Services&rdquo;) include the <strong>individual Signaling and Telecommunication Engineering Expert</strong>. The start date for the services is&nbsp;September 2026&nbsp;and the duration of the assignment is&nbsp;24 months.</p><p>3. The detailed Terms of Reference (TOR) for the assignment can be found at the following websites: Kenya Railways portal&nbsp;https://krc.co.ke/tenders/<u> </u>or Public Procurement Information portal&nbsp;www.tenders.go.ke<u>.</u></p><p>4. Kenya Railways,&nbsp;<strong>(the &ldquo;Client&rdquo;)</strong>, now invites eligible individual consultants<strong>&nbsp;</strong>to indicate their interest in providing the Services. Interested consultants should provide:</p><ul><li>A cover letter expressing interest;</li><li>Updated Curriculum Vitae (CV);</li><li>Copies of academic and professional certificates;</li><li>Details of similar assignments undertaken;</li><li>Contact information for at least three referees.</li></ul><p>5. The attention of interested Consultants is drawn to Section III, paragraphs 3.14, 3.16 and 3.17 of the World Bank&rsquo;s Procurement Regulation for IPF Borrowers, dated July 2016 revised September 2025 (7th Edition): (Procurement Regulations&rsquo;) setting forth the World Bank&rsquo;s policy on conflict of interest.</p><p>6. A Consultant will be selected in accordance with the <strong>Individual Consultant Selection</strong> method set out in the World Bank Procurement Regulations for IPF Borrowers.</p><p>7. Further information and/or ToRs can be obtained in writing at the address below from Monday to Friday, excluding weekends and public holidays from 0900 hours to 1700 hours East African Time (EAT):</p><p>Managing Director, Kenya Railways,</p><p>Attention: General Manager-Supply Chain Management,</p><p>Kenya Railways Headquarters Office,</p><p>Workshops Road off Haile Selassie Avenue,</p><p>Opposite Technical University of Kenya,</p><p>P. O. Box 30121-00100,</p><p>Nairobi, Kenya.</p><p>Email:&nbsp;<strong>procure@krc.co.ke</strong></p><p>Tel. No: +254 709 907 000, +254 709 907 114</p><p>8. Expressions of interest must<strong>&nbsp;</strong>be submitted in written form to the address below in person, or by mail or by e-mail on or before<strong>&nbsp;October 26, 2026&nbsp;</strong>at <strong>1100 hours</strong>, East African Time (EAT).</p><p>Tender Box at Block C, Main Reception</p><p>Kenya Railways Headquarters Office,</p><p>Workshops Road, off Haile Selassie Avenue,</p><p>Opposite Technical University of Kenya,</p><p>P. O. Box 30121-00100,</p><p>Nairobi, Kenya.</p><p>Email:&nbsp;<strong>procure@krc.co.ke</strong></p><p>Tel. No: +254 709 907 000, +254 709 907 114</p><p>9. All submissions should be clearly marked <strong>&ldquo;</strong>Consultancy Services&rsquo;&rsquo; with the<strong> </strong>Assignment Title and Tender Number indicated<strong>.&nbsp;</strong>For email submissions: Assignment Title and Tender Number should be quoted in the subject row.</p><p><strong>The Managing Director</strong></p><p><strong>Kenya Railways</strong></p>",
-      "project_id": "P515393",
-      "reference_no": "KE-KRC-548691-CS-INDV",
-      "language": "English",
-      "procurement_method": null,
-      "source_key": "Banco Mundial|OP00448571"
-    },
-    {
-      "Fuente": "Banco Mundial",
-      "Identificador": "OP00472604",
-      "Oportunidad": "Core Banking System diagnostic assessment",
-      "Institución/Entidad": "Central Bank of Samoa",
-      "País": "Samoa",
-      "Monto": "No informado",
-      "Fecha de publicación": "02-Oct-2026",
-      "Cierre": "2026-10-26T11:00:00Z",
-      "Fuente/Enlace": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00472604",
-      "Texto": "<p><strong>REQUEST FOR EXPRESSIONS OF INTEREST</strong></p><p><strong>(CONSULTING SERVICES &ndash; INDIVIDUAL CONSULTING SERVICES)</strong></p><p>&nbsp;</p><p><strong>Country:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Independent State of Samoa</p><p>&nbsp;</p><p><strong>Name of Project:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Samoa Finance Sector Resilience and Development Project (SFSRDP) 2025 &ndash; 2029 (World Bank Financed Project P181456)</p><p>&nbsp;</p><p><strong>Loan No./Credit No./Grant No.:&nbsp;&nbsp;&nbsp;&nbsp; </strong>IDA &ndash; E3780</p><p>&nbsp;</p><p><strong>Assignment Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Diagnostic assessment for a core banking solution (CBS)</strong></p><p>&nbsp;</p><p><strong>Reference No.: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>CBS/ICS/010</p><p>&nbsp;</p><p>&nbsp;</p><p>1. The Government of Samoa has received financing from the World Bank toward the cost of the SFSRDP P181456 and intends to apply part of the proceeds to consulting services for the procurement of a Consultant to carry out a diagnostic assessment for a core banking solution for the Central Bank of Samoa.</p><p>&nbsp;</p><p>2. The primary objective of the assignment is to conduct a&nbsp;comprehensive diagnostic assessment&nbsp;of the Central Bank&rsquo;s current operational environment, identify capability gaps, define future-state requirements, and provide a strategic recommendation and roadmap for introducing a Core Banking Solution that aligns with international good practices and future needs of the Central Bank.</p><p>&nbsp;</p><p>3. The estimated assignment duration is for 8 weeks. The consulting firm is expected to begin work by January &nbsp;2027.</p><p>&nbsp;</p><p>4. The detailed Terms of Reference (TOR) for the assignment can be found at the following website: www.cbs.gov.ws and www.mof.gov.ws or can be obtained at the address given below:</p><p>&nbsp;</p><p>Central Bank of Samoa</p><p>Financial System Development Department</p><p>Level 1, Central Bank of Samoa Building</p><p>2 Apia City Boulevard</p><p>Email: lanna.lome@cbs.gov.ws.</p><p>&nbsp;</p><p>5. The Bank now invites eligible all Individual (&ldquo;Consultants&rdquo;) to indicate their interest in providing services. All interested Consultants should provide information demonstrating that they have the required qualification and relevant experience to perform the Services (attach curriculum vitae with the description of experience in similar assignments, similar conditions, responsiveness to the TOR etc.). Firms; staff may express interest through the employing firm for the assignment and, under such situation, only the experience and qualifications of individuals shall be considered in the selection process.</p><p>&nbsp;</p><p>&nbsp;</p><p>6. The evaluation criteria are:</p><p><strong>Mandatory </strong></p><ul><li>A <strong>Master&rsquo;s degree</strong> in Information Systems, Computer Science, Finance, Banking, Business Administration, or a related field.</li><li>A minimum of <strong>1</strong><strong>0</strong><strong> years</strong> of professional experience in financial sector IT strategy and enterprise architecture.</li><li><strong>Central Banking Domain Expertise</strong><strong>, </strong>including but not limited to:<ul><li><strong>Core Functions:</strong> Proven experience working with or consulting for central banks, specifically regarding monetary policy execution, currency management (vault/mint operations), and government banking.</li><li><strong>Treasury &amp; Settlement:</strong> Deep understanding of Treasury Single Account (TSA) management, Real-Time Gross Settlement (RTGS) system integrations, and Automated Clearing House (ACH) frameworks.</li><li><strong>Accounting Standards:</strong> Familiarity with central bank financial reporting, statutory accounting rules, and international frameworks (e.g., IFRS).</li></ul></li></ul><p>&nbsp;</p><ul><li><strong>Enterprise Architecture &amp; Diagnostic Capability,</strong><strong> </strong>including but not limited to:<ul><li><strong>System Diagnostics:</strong> Demonstrated track record of conducting IT gap analyses, legacy system audits, and business process re-engineering (BPR) for complex financial institutions.</li><li><strong>Core Banking Systems:</strong> Strong technical knowledge of modern Core Banking Solutions (CBS), modular service-oriented architectures (SOA), cloud vs. on-premise trade-offs, and data migration complexities.</li><li><strong>Security &amp; Resilience:</strong> Knowledge of financial sector cybersecurity frameworks, business continuity planning (BCP), and disaster recovery (DR) protocols.</li></ul></li></ul><p>&nbsp;</p><ul><li><strong>Strategy, Procurement &amp; Roadmap Design</strong><strong>, </strong>including but not limited to:<ul><li><strong>Strategic Planning:</strong> Experience drafting high-level IT roadmaps, cost-benefit analyses, and Total Cost of Ownership (TCO) models for large-scale software implementations.</li><li><strong>Procurement Knowledge:</strong> Experience writing technical specifications, Functional/Technical Requirements documents, and Terms of Reference (TOR) or Requests for Proposals (RFP) for international vendor bidding.</li></ul></li></ul><p>&nbsp;</p><ul><li><strong>Communication &amp; Stakeholder Management</strong><strong>, </strong>including but not limited to:<ul><li><strong>Executive Advisory:</strong> Proven capability to interview, advise, and present strategic technical assessments to high-level executives</li><li><strong>Reporting Skills:</strong> Portfolio of high-quality, clear, and structured technical diagnostic reports written in English</li></ul></li></ul><p>&nbsp;</p><p><strong>Desirable </strong></p><ul><li>Excellent communication and stakeholder management skills.</li><li>Excellent speaking, writing and interpersonal skills</li></ul><p>&nbsp;</p><p>&nbsp;</p><p>7. The attention of interested Consultants is drawn to Section III, paragraphs, 3.14,3.16 and 3.17 of the World Bank&rsquo;s &ldquo;Procurement Regulations for IPF Borrowers&rdquo; September 2023, setting forth the World Bank&rsquo;s Policy on conflict of interest.</p><p>&nbsp;</p><p>8. A Consultant will be selected in accordance with the Individual Consultant Selection (ICS) method set out in the Procurement Regulations in paragraph 7. &nbsp;</p><p>&nbsp;</p><p>9. Further information can be obtained at the address below during <strong>9.00am to 4.00pm, Samoa time, on working days no later than 21 October 2026:</strong></p><p>&nbsp;</p><p>Ms. Lanna Lome-Ieremia</p><p>Manager</p><p>Financial System Development Department</p><p>Level 1, Central Bank of Samoa Building</p><p>2 Apia City Boulevard</p><p>Email: lanna.lome@cbs.gov.ws</p><p>&nbsp;</p><p>10. Expressions of interest must be delivered in a written form to the address below (in person or through electronic submission through the Government e-Portal https://portal.tenderlink.com/mof_samoa/ by <strong>11am Samoa time, 26 October 2026.</strong></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p><strong>Ministry of Finance </strong></p><p><strong>Attn: Tenders Board Secretary Level 4, Central Bank of Samoa Building </strong></p><p><strong>2 Apia City Boulevard </strong></p><p><strong>Apia, Samoa </strong></p><p><strong>Tel: +685-34333</strong></p><p>&nbsp;</p><p>11. Expressions of interest received after the deadline for submission will be returned unopened.</p>",
-      "project_id": "P181456",
-      "reference_no": "CBS/ICS/010",
-      "language": "English",
-      "procurement_method": null,
-      "source_key": "Banco Mundial|OP00472604"
-    },
-    {
-      "Fuente": "Banco Mundial",
-      "Identificador": "OP00474635",
-      "Oportunidad": "Specialist in International Cooperation and Internationalisation in Higher Education",
-      "Institución/Entidad": "Ministry of Education and Science of Ukraine",
-      "País": "Ukraine",
-      "Monto": "No informado",
-      "Fecha de publicación": "12-Oct-2026",
-      "Cierre": "2026-10-26T11:00:00Z",
-      "Fuente/Enlace": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00474635",
-      "Texto": "<p>REQUEST FOR EXPRESSIONS OF INTEREST</p><p>(MOES-C3-05-SUP-IC-08-R4 &ndash; Specialist in International Cooperation and Internationalisation in Higher Education)</p><p><strong>Market Approach - Open, National</strong></p><p>UKRAINE</p><p>Ukraine Improving Higher Education for Results Project&nbsp;</p><p>Loan Agreement No. 9238-UA</p><p>&nbsp;</p><p>Assignment Title: Specialist in International Cooperation and Internationalisation in Higher Education</p><p>&nbsp;</p><p>Reference No. MOES-C3-05-SUP-IC-08-R4</p><p>The Ministry of Education and Science of Ukraine (MOES) has received financing from the World Bank toward the cost of Ukraine Improving Higher Education for Results Project (hereinafter referred to as Project) and intends to apply part of the proceeds for consulting services.&nbsp;</p><p>The Project aims to increase efficiency and improve conditions to ensure quality and transparency in the higher education system of Ukraine.</p><p>The objective of this assignment is to support the Ministry of Education and Science of Ukraine in developing international cooperation by coordinating the international dimension of higher education reforms and engaging external partners to improve the higher education sector under the Ukraine Improving Higher Education for Results Project.</p><p>The role of the Consultant in International Cooperation in Higher Education is to support all activities aimed at achieving the Project Development Objective (PDO) by aligning international cooperation with the needs of Ukrainian higher education. The Consultant is expected to coordinate cooperation with international partners and align Project activities with international best practice, contributing to the successful implementation of all Project components.</p><p>The Consultant will be contracted through competitive selection in line with the World Bank&rsquo;s &ldquo;Procurement Regulations for IPF Borrowers&rdquo; September 2025 (&ldquo;Procurement Regulations&rdquo;).&nbsp;</p><p>The attention of interested Consultants is drawn to Section III, paragraphs, 3.14, 3.16, and 3.17 of the Procurement Regulations, setting forth the World Bank&rsquo;s policy on conflict of interest.</p><p>MOES now invites qualified interested persons to submit their expression of interest in Ukrainian and English as provided in the Terms of reference.&nbsp;&nbsp;</p><p>The detailed Terms of Reference and submission modalities for the assignment are available at the link&nbsp;https://bit.ly/3UmOPGP</p><p>The deadline for submission of applications is 11:00 am Kyiv time October 26, 2026.&nbsp;</p>",
-      "project_id": "P171050",
-      "reference_no": "MOES-C3-05-SUP-IC-08-R4",
-      "language": "English",
-      "procurement_method": null,
-      "source_key": "Banco Mundial|OP00474635"
-    },
-    {
-      "Fuente": "Banco Mundial",
-      "Identificador": "OP00474638",
-      "Oportunidad": "Specialist in the Development of Dual Education and Education for Veterans",
-      "Institución/Entidad": "Ministry of Education and Science of Ukraine",
-      "País": "Ukraine",
-      "Monto": "No informado",
-      "Fecha de publicación": "12-Oct-2026",
-      "Cierre": "2026-10-26T11:00:00Z",
-      "Fuente/Enlace": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00474638",
-      "Texto": "<p>REQUEST FOR EXPRESSIONS OF INTEREST</p><p>(MOES-C3-05-SUP-IC-15-RR &ndash; Specialist in the Development of Dual Education and Education for Veterans)</p><p><strong>Market Approach - Open, National</strong></p><p>UKRAINE</p><p>Ukraine Improving Higher Education for Results Project&nbsp;</p><p>Loan Agreement No. 9238-UA</p><p>&nbsp;</p><p>Assignment Title: Specialist in the Development of Dual Education and Education for Veterans</p><p>&nbsp;</p><p>Reference No. MOES-C3-05-SUP-IC-15-RR</p><p>The Ministry of Education and Science of Ukraine (MOES) has received financing from the World Bank toward the cost of Ukraine Improving Higher Education for Results Project (hereinafter referred to as Project) and intends to apply part of the proceeds for consulting services.&nbsp;</p><p>The Project aims to increase efficiency and improve conditions to ensure quality and transparency in the higher education system of Ukraine.</p><p>This assignment aims&nbsp; to support MoES in developing partnerships between higher education institutions (HEIs) and businesses, dual education and other forms of practice-oriented learning, as well as educational programmes and opportunities for veterans of all genders to obtain qualifications under the Project. The Consultant will provide analytical and coordination support for the development of roadmaps for cooperation between HEIs and employers, the launch of pilot programmes and the sharing of proven practices. A separate area of work will involve cooperation with the Ministry of Veterans Affairs of Ukraine on education, professional adaptation and veterans&rsquo; transition to civilian employment, taking account of their needs and labour market demand.</p><p>The Consultant will be contracted through competitive selection in line with the World Bank&rsquo;s &ldquo;Procurement Regulations for IPF Borrowers&rdquo; September 2025 (&ldquo;Procurement Regulations&rdquo;).&nbsp;</p><p>The attention of interested Consultants is drawn to Section III, paragraphs, 3.14, 3.16, and 3.17 of the Procurement Regulations, setting forth the World Bank&rsquo;s policy on conflict of interest.</p><p>MOES now invites qualified interested persons to submit their expression of interest in Ukrainian and English as provided in the Terms of reference.&nbsp;&nbsp;</p><p>The detailed Terms of Reference and submission modalities for the assignment are available at the link&nbsp;https://bit.ly/4zxMS9I</p><p>The deadline for submission of applications is 11:00 am Kyiv time October 26, 2026.</p>",
-      "project_id": "P171050",
-      "reference_no": "MOES-C3-05-SUP-IC-15-RR",
-      "language": "English",
-      "procurement_method": null,
-      "source_key": "Banco Mundial|OP00474638"
-    },
-    {
-      "Fuente": "Banco Mundial",
-      "Identificador": "OP00448577",
-      "Oportunidad": "Railway Electrical Systems Expert",
-      "Institución/Entidad": "Kenya Railways Corporation",
-      "País": "Kenya",
-      "Monto": "No informado",
-      "Fecha de publicación": "06-Oct-2026",
-      "Cierre": "2026-10-26T14:00:00Z",
-      "Fuente/Enlace": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00448577",
-      "Texto": "<p><strong>REQUEST FOR EXPRESSION OF INTEREST (REOI)</strong></p><p><strong>(CONSULTING SERVICES-INDIVIDUAL CONSULTANT SELECTION)</strong></p><table cellspacing=\"0\" style=\"border-collapse:collapse; width:101.6%\"><tbody><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:5px; vertical-align:top; width:22%\"><p><strong>Country</strong></p></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:5px; vertical-align:top; width:77%\"><p>REPUBLIC OF KENYA</p></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:3px; vertical-align:top; width:22%\"><p><strong>Name of project</strong></p></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:3px; vertical-align:top; width:77%\"><p>KENYA URBAN MOBILITY IMPROVEMENT PROJECT (KUMIP)</p></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:6px; vertical-align:top; width:22%\"><p><strong>Credit No</strong></p></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:6px; vertical-align:top; width:77%\"><p>V4940</p></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:22%\"><p><strong>Assignment Title</strong></p></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:77%\"><p>RAILWAY ELECTRICAL SYSTEMS EXPERT</p></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:3px; vertical-align:top; width:22%\"><p><strong>Reference</strong></p></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:3px; vertical-align:top; width:77%\"><p>KE-KRC-548690-CS-INDV</p></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:3px; vertical-align:top; width:22%\"><p><strong>Tender No.</strong></p></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:3px; vertical-align:top; width:77%\"><p>KR/SCM/WB/002/2025-2026 (Re-tendered)</p></td></tr></tbody></table><p>1. The Government of Kenya (GOK) has<em>&nbsp;</em>applied for financing from the World Bank towards the cost of the Kenya Urban Mobility Improvement Project (KUMIP), and intends to apply part of the proceeds for consulting services.</p><p>2. The consulting services (&ldquo;the Services&rdquo;) include the individual <strong>Railway Electrical Systems Exper</strong>t. The start date for the services is&nbsp;September 2026&nbsp;and the duration of the assignment is&nbsp;24 months.</p><p>3. The detailed Terms of Reference (TOR) for the assignment can be found at the following websites: Kenya Railways portal&nbsp;https://krc.co.ke/tenders/<u> </u>or Public Procurement Information portal&nbsp;www.tenders.go.ke<u>.</u></p><p>4. Kenya Railways,&nbsp;<strong>(the &ldquo;Client&rdquo;)</strong>, now invites eligible individual consultants<strong>&nbsp;</strong>to indicate their interest in providing the Services. Interested consultants should provide:</p><ul><li>A cover letter expressing interest;</li><li>Updated Curriculum Vitae (CV);</li><li>Copies of academic and professional certificates;</li><li>Details of similar assignments undertaken;</li><li>Contact information for at least three referees.</li></ul><p>5. The attention of interested Consultants is drawn to Section III, paragraphs 3.14, 3.16 and 3.17 of the World Bank&rsquo;s Procurement Regulation for IPF Borrowers, dated July 2016 revised September 2025 (7th Edition): (Procurement Regulations&rsquo;) setting forth the World Bank&rsquo;s policy on conflict of interest.</p><p>6. A Consultant will be selected in accordance with the <strong>Individual Consultant Selection</strong> method set out in the World Bank Procurement Regulations for IPF Borrowers.</p><p>7. Further information and/or ToRs can be obtained in writing at the address below from Monday to Friday, excluding weekends and public holidays from 0900 hours to 1700 hours East African Time (EAT):</p><p>Managing Director, Kenya Railways,</p><p>Attention: General Manager-Supply Chain Management,</p><p>Kenya Railways Headquarters Office,</p><p>Workshops Road off Haile Selassie Avenue,</p><p>Opposite Technical University of Kenya,</p><p>P. O. Box 30121-00100,</p><p>Nairobi, Kenya.</p><p>Email:&nbsp;<strong>procure@krc.co.ke</strong></p><p>Tel. No: +254 709 907 000, +254 709 907 114</p><p>8. Expressions of interest must<strong>&nbsp;</strong>be submitted in written form to the address below in person, or by mail or by e-mail on or before<strong>&nbsp;October 26, 2026&nbsp;</strong>at <strong>1400 hours</strong>, East African Time (EAT).</p><p>Tender Box at Block C, Main Reception</p><p>Kenya Railways Headquarters Office,</p><p>Workshops Road, off Haile Selassie Avenue,</p><p>Opposite Technical University of Kenya,</p><p>P. O. Box 30121-00100,</p><p>Nairobi, Kenya.</p><p>Email:&nbsp;<strong>procure@krc.co.ke</strong></p><p>Tel. No: +254 709 907 000, +254 709 907 114</p><p>9. All submissions should be clearly marked <strong>&ldquo;</strong>Consultancy Services&rsquo;&rsquo; with the<strong> </strong>Assignment Title and Tender Number indicated<strong>.&nbsp;</strong>For email submissions: Assignment Title and Tender Number should be quoted in the subject row.</p><p><strong>The Managing Director</strong></p><p><strong>Kenya Railways</strong></p>",
-      "project_id": "P515393",
-      "reference_no": "KE-KRC-548690-CS-INDV",
-      "language": "English",
-      "procurement_method": null,
-      "source_key": "Banco Mundial|OP00448577"
-    },
-    {
-      "Fuente": "Banco Mundial",
-      "Identificador": "OP00471655",
-      "Oportunidad": "Fund Manager for Ngwee Ngwee Ngwee Fund",
-      "Institución/Entidad": "Ministry of Energy",
-      "País": "Malawi",
-      "Monto": "No informado",
-      "Fecha de publicación": "30-Sep-2026",
-      "Cierre": "2026-10-26T14:00:00Z",
-      "Fuente/Enlace": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471655",
-      "Texto": "<p><strong>REPUBLIC OF MALAWI<br />MINISTRY OF ENERGY</strong><br />&nbsp;</p><p><strong><u>REQUEST FOR EXPRESSION OF INTEREST (CONSULTING SERVICES &ndash; FIRM SELECTION)</u></strong></p><table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tbody><tr><td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:179px\"><p>Country</p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:396px\"><p>Malawi</p></td></tr><tr><td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:179px\"><p>Project Name</p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:396px\"><p>ASCENT Malawi Project</p></td></tr><tr><td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:179px\"><p>Project Number</p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:396px\"><p>P502464</p></td></tr><tr><td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:179px\"><p>Assignment Title</p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:396px\"><p>Consultancy for Provision of Fund Management Services for the Ngwee Ngwee Ngwee Fund</p></td></tr><tr><td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:179px\"><p>Reference No.</p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:396px\"><p>MW-MOE.-574017-CS-QCBS</p></td></tr><tr><td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:179px\"><p>EOI Issue Date</p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:396px\"><p>28th September 2026</p></td></tr></tbody></table><p>This request for expression of interest follows the General Procurement Notice for this Project that appeared in the United Nations Development Business (UNDB) on 31st January 2025.</p><p>The Government of the Republic of Malawi through the Ministry of Energy (MoE) has received financing from the International Development Association (IDA) and the Energy Sector Management Assistance Program (ESMAP) towards the cost of implementing the Accelerating Sustainable and Clean Energy Access Transformation in Malawi (ASCENT Malawi) Project. It is intended that part of the proceeds of the financing will be used to cover eligible payments under the contract for these consultancy services.</p><p>The consulting services (&ldquo;the Services&rdquo;) are intended to engage a qualified consulting firm or consortium to provide Fund Management Services for the Ngwee Ngwee Ngwee Fund (NNNF). The Fund Manager will support the Ministry of Energy in delivering ASCENT Malawi Project Components 2, 3 and 4; managing legacy Malawi Electricity Access Project (MEAP) loan collections and residual obligations; and supporting the transition and institutionalisation of the NNNF as a sustainable standalone revolving fund.</p><p>The assignment is expected to be implemented over forty-eight (48) Calendar months, from 1st January 2027 to 31st December 2030, subject to contract signature and availability of financing.</p><p>The objective of the assignment is to provide specialised fund management services that enable timely, compliant and well-secured financing to eligible Participating Organisations; ensure sound portfolio, fiduciary, safeguards, data and risk management; protect the Fund&rsquo;s creditor rights; support achievement of ASCENT energy-access and market-development results; and strengthen systems, national capacity and arrangements for the long-term sustainability of the NNNF.</p><p>The scope of work under this assignment shall include, but not be limited to:</p><p>a) Inception, portfolio takeover, reconciliation and structured handover of existing NNNF facilities, commitments, systems, records and outstanding actions;</p><p>b) Cross-cutting fund administration, including drawdown and payment review, portfolio monitoring, forecasting, records management, risk management and reporting;</p><p>c) Administration of Component 2 debt and Results-Based Financing (RBF) facilities for off-grid solar companies, including disbursements, repayments, verification interfaces, portfolio quality and recovery actions;</p><p>d) Administration of Component 3 financing and performance-linked payments for electrification of public schools and health facilities, in coordination with the ASCENT PIU technical team;</p><p>e) Administration of Component 4 clean cooking financing, including loans, repayments, security, portfolio monitoring and carbon-finance interfaces;</p><p>f) Management of loan collateral, security perfection, covenant monitoring, enforcement and recoveries, subject to Ministry approvals;</p><p>g) Management and collection of the legacy MEAP loan portfolio, including arrears, restructuring, recoveries and close-out actions;</p><p>h) Data management, monitoring, dashboards, financial and operational reconciliation, fraud and corruption controls, cybersecurity and data protection;</p><p>i) Implementation and monitoring of environmental and social requirements in accordance with the NNNF ESMS, applicable Malawi law and World Bank requirements;</p><p>j) Coordination with the Independent Verification Agent, Legal Advisor, Carbon Consultant, technical specialists and other consultants engaged by the Ministry; and</p><p>k) Support to institutionalisation of the NNNF, including governance arrangements, capitalisation options, sustainable business model, capacity development, systems transfer and final handover.</p><p>The detailed Terms of Reference (TORs) for the assignment can be found at the following websites: Ministry of Energy (https://energy.gov.mw/resources/), Ngwee Ngwee Ngwee Fund (https://www.nnnf.energy.gov.mw/resources/) and ASCENT Malawi Project (https://www.ascent.mw/resources/), or upon request through amopiha@ascent.mw copied to info@ascent.mw and austin.theu@energy.gov.mw. All requests for clarification should be sent through the above email addresses.</p><p>The MoE now invites eligible consulting firms (&ldquo;Consultants&rdquo;) to indicate their interest in providing the Services. Interested Consultants should provide information demonstrating that they have the required qualifications and relevant experience to perform the Services. The shortlisting criteria are as follows:</p><p>1. Core business of the firm(s) and years in business of not less than 5 years organizational capability and relevant experience in fund management, investment, lending, RBF/grant facilities or comparable financing programmes.</p><p>2. Relevant similar experience, which should specifically include the below:</p><p><strong>a) Off-grid solar and clean cooking sector expertise</strong>: experience in, and understanding of, the off-grid solar and clean cooking market in Sub-Saharan Africa, including Energy-as-a-Service and PAYGo solar business models (minimum of five years), together with specific experience in, and understanding of, the Malawi off-grid solar and clean cooking market and the success factors of for-profit businesses in this sector;</p><p><strong>b) Results-Based Financing (RBF) and grant facility management</strong>: a minimum of three years track record of structuring and managing RBF grant facilities aimed at market stimulation, ideally facilities funded by multilateral development banks, development finance institutions and/or bilateral development assistance agencies;</p><p><strong>c) Debt and consumer financing track record</strong>: a minimum of three years track record of providing debt financing to off-grid solar and clean cooking distribution businesses and/or consumer finance businesses, including microfinance institutions;</p><p><strong>d) Malawi presence and government/development-partner engagement</strong>: an established or committed local footprint in Malawi sufficient to manage relationships and reporting with the Government of Malawi and with RBF Grant Window and Debt Window applicants and investees and experience managing reporting relationships with government stakeholders and large development finance organisations;</p><p><strong>e) Integration &amp; Institutional Capability</strong>: Capacity to integrate sector expertise, financing mechanisms, and local presence, with into a coherent delivery model, supported by evidence of technical and managerial systems for coordinating RBF, debt financing, and stakeholder reporting, and scalable energy-access ability to sustain and scale operations in Malawi&rsquo;s energy access sector.</p><p>3. Technical and managerial capability of the firm (provide only the structure of the organization, general qualifications, and number of key staff. Do not provide CVs of the staff. Key Experts will not be evaluated at the shortlisting stage.</p><p>This Request for Expressions of Interest is open to all eligible firms as defined in the World Bank&#39;s Procurement Regulations for IPF Borrowers (July 2016, as revised November 2017, August 2018, September 2023 and February 2025). Firms declared ineligible by the World Bank Group in accordance with the Bank&#39;s guidelines on Preventing and Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants are not eligible to participate.</p><p>Consultants may associate with other firms in the form of a Joint Venture (JV) or sub-consultancy to enhance their qualifications. In the case of a JV, the firms should clearly identify the lead firm and the nature of the association. All partners in a joint venture shall be jointly and severally liable for the entire contract, if selected.</p><p>A Consultant will be selected in accordance with the Quality- and Cost-Based (QCBS) Selection method set out in the World Bank Procurement Regulations for IPF Borrowers.</p><p>Interested firms are requested to submit an Expression of Interest containing the following information:</p><ul><li><strong>Firm Profile</strong>: organisation name, legal status, country of registration, year of establishment, core business and contact details.</li><li><strong>Relevant Experience</strong>: description of similar assignments, including client, assignment title, duration, contract value, scope and role of the firm; reference contacts should be provided.</li><li><strong>Approach Statement:</strong> a brief statement responding to the shortlisting criteria outlined above.&nbsp;</li><li><strong>Statement of Availability and Commitment</strong>: Signed declaration of the firm&#39;s availability and commitment to execute the assignment.</li><li><strong>Joint Venture Agreement</strong> (if applicable): A Letter of Intent to form a JV or sub-consultancy, signed by all parties</li></ul><p>Further information can be obtained at the address below during office hours from 8:00 to 12:00 and 13:00 to 16:00 hours local time, Monday to Friday, except National Holidays.</p><p>Expressions of Interest must be submitted in either electronic or hard copy format no later than 26th October 2026.</p><p><strong>Electronic submission (PDF format) to: </strong>amopiha@ascent.mw(primary) with copy to info@ascent.mw and austin.theu@energy.gov.mw.</p><p><strong>Hard copy submission addressed to:</strong></p><p>IPDC Chairperson</p><p>Ministry of Energy &ndash; ASCENT MW Project</p><p>Area 47 Sector 5, House No. 66</p><p>P/Bag 309, Lilongwe 3, Malawi</p><p>Late submissions will not be considered. The MoE reserves the right to accept or reject any Expression of Interest and to annul this process at any time without incurring any liability.</p><p>The firms that will submit their EOI via e-mail must get confirmation of the receipt of their documents. In case the firm does not receive acknowledgement within two days after sending the documents via email, they should call +265 888 870 806 or +265 999 138 270 for follow-up.</p><p><strong>The Chairperson of Internal Procurement and Disposal Committee</strong></p><p><strong>Ministry of Energy</strong></p><p><strong>ASCENT Malawi Project</strong></p><p><strong>Area 47, Sector 5, House No. 66</strong></p><p><strong>Private Bag 309, Lilongwe 3</strong></p><p><strong>Malawi</strong></p><p>&nbsp;</p><p><strong>E-mail:&nbsp;</strong>amopiha@ascent.mw</p><p>Copy:&nbsp; info@ascent.mw&nbsp; and austin.theu@energy.gov.mw</p><p>&nbsp;</p>",
-      "project_id": "P502464",
-      "reference_no": "MW-MOE.-574017-CS-QCBS",
-      "language": "English",
-      "procurement_method": null,
-      "source_key": "Banco Mundial|OP00471655"
     },
     {
       "Fuente": "Banco Mundial",
